@@ -1,0 +1,2632 @@
+{ "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "ca-app-pub-3989213914018779/8312191284",
+      "main_ads_intertitial":"ca-app-pub-3989213914018779/1570810738",
+      "main_ads_intertitial_applovin": "f334b06e04a4e72e",
+      "main_native_for_admob_applovin":"ca-app-pub-3989213914018779/8633260143",
+      "backup_native_for_admob_applovin":"1b8f638ee881df0a",
+      "backup_ads_banner":"0000000000",
+      "backup_ads_intertitial":"f334b06e04a4e72e",
+      "interval_intertitial": 0,
+      "initialize_sdk":"",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "matikan_iklan":"0",
+      "link_redirect": "https://",
+	    
+      "aff_ads":"1",
+      "link_aff":"https://shope.ee/5UtB1Da63X"
+ 
+    }
+  ],
+ "DATA":
+  [ 
+	  {
+      "title":"Setra Nusgem V2",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/08/SGCA_IMG-24082021-143059.jpg",
+      "link_mods":"https://archive.org/download/jb-3-shd-tronton-volvo-b-11-r-bus/Setra%20Nusgem%20V2.bussidmod",
+      "link_livery":"https://archive.org/download/jb-3-shd-tronton-volvo-b-11-r-bus/Setra%20Nusgem%20V2.png"
+    },
+	{
+      "title":"Super High Deck Voyager 3+ Scania K410 ib",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/08/SGCA_IMG-23082021-151657.jpg",
+      "link_mods":"https://archive.org/download/jb-3-shd-tronton-volvo-b-11-r-bus/Super%20High%20Deck%20Voyager%203%2B%20Scania%20K410%20ib.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"JetBus3 Scania K410 IB",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/08/SGCA_IMG-23082021-143537.jpg",
+      "link_mods":"https://archive.org/download/jb-3-shd-tronton-volvo-b-11-r-bus/JetBus3%20Scania%20K410%20IB.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"SHD Mercy Terbaru",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/08/SGCA_IMG-17082021-165012.jpg",
+      "link_mods":"https://archive.org/download/jb-3-shd-tronton-volvo-b-11-r-bus/SHD%20Mercy%20Terbaru.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"JB3 SHD Tronton Volvo B11R Bus",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/08/SGCA_IMG-15082021-141148.jpg",
+      "link_mods":"https://archive.org/download/jb-3-shd-tronton-volvo-b-11-r-bus/JB3%20SHD%20Tronton%20Volvo%20B11R%20Bus.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Evolander SHD Tronton",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/08/SGCA_IMG-13082021-083559.jpg",
+      "link_mods":"https://archive.org/download/jb-3-shd-tronton-volvo-b-11-r-bus/Evolander%20SHD%20Tronton.bussidmod",
+      "link_livery":"https://archive.org/download/jb-3-shd-tronton-volvo-b-11-r-bus/Evolander%20SHD%20Tronton.png"
+    },
+	{
+      "title":"Marcopolo V2",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/08/SGCA_IMG-01082021-154802.jpg",
+      "link_mods":"https://archive.org/download/jb-3-shd-tronton-volvo-b-11-r-bus/Marcopolo%20V2.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Maruthi V2",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/07/SGCA_IMG-12072021-060757.jpg",
+      "link_mods":"https://archive.org/download/jb-3-shd-tronton-volvo-b-11-r-bus/Maruthi%20V2.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"ZED One Indian",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/07/SGCA_IMG-07072021-141336.jpg",
+      "link_mods":"https://archive.org/download/jb-3-shd-tronton-volvo-b-11-r-bus/ZED%20One%20Indian.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Marcopolo Paradiso 1800DD",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/06/SGCA_IMG-19062021-045228.jpg",
+      "link_mods":"https://archive.org/download/jb-3-shd-tronton-volvo-b-11-r-bus/Marcopolo%20Paradiso%201800DD.bussidmod",
+      "link_livery":"https://archive.org/download/jb-3-shd-tronton-volvo-b-11-r-bus/Marcopolo%20Paradiso%201800DD.png"
+    },
+	  {
+      "title":"Jetbus 3+ UHD MN Art 2542",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/10/SGCA_IMG-30102021-140151.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%203%2B%20UHD%20MN%20Art%202542.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Avante Scania",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/10/SGCA_IMG-27102021-124712.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Avante%20Scania.bussidmod",
+      "link_livery":""
+    },
+	  {
+      "title":"Green Line Irizar Sleeper Coach",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/06/SGCA_IMG-17062021-143228.jpg",
+      "link_mods":"https://archive.org/download/veera-v-7-non-ac-sleeper-indian/Green%20Line%20Irizar%20Sleeper%20Coach.bussidmod",
+      "link_livery":"https://archive.org/download/veera-v-7-non-ac-sleeper-indian/Green%20Line%20Irizar%20Sleeper%20Coach.png"
+    },
+	{
+      "title":"Kondody Calista NDX V2 Indian",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/06/SGCA_IMG-10062021-152335.jpg",
+      "link_mods":"https://archive.org/download/veera-v-7-non-ac-sleeper-indian/Kondody%20Calista%20NDX%20V2%20Indian.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Neoplan CityLiner Green Line High Deck",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/06/SGCA_IMG-01062021-062945.jpg",
+      "link_mods":"https://archive.org/download/veera-v-7-non-ac-sleeper-indian/Neoplan%20CityLiner%20Green%20Line%20High%20Deck.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Jetbus 3+ Dream Coach",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/05/SGCA_IMG-20052021-113141.jpg",
+      "link_mods":"https://archive.org/download/veera-v-7-non-ac-sleeper-indian/Jetbus%203%2B%20Dream%20Coach.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Zed 2 Indian",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/05/SGCA_IMG-18052021-153201.jpg",
+      "link_mods":"https://archive.org/download/veera-v-7-non-ac-sleeper-indian/Zed%202%20Indian.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"JetBus3+ THR Hino RK",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/05/SGCA_IMG-31122021-111123.jpg",
+      "link_mods":"https://archive.org/download/veera-v-7-non-ac-sleeper-indian/JetBus3%2B%20THR%20Hino%20RK.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Veera V7 Non AC Sleeper Indian",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/05/SGCA_IMG-05052021-172627.jpg",
+      "link_mods":"https://archive.org/download/veera-v-7-non-ac-sleeper-indian/Veera%20V7%20Non%20AC%20Sleeper%20Indian.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"JetBus 3+ SHD Geprek",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/05/SGCA_IMG-02052021-170414.jpg",
+      "link_mods":"https://archive.org/download/veera-v-7-non-ac-sleeper-indian/JetBus%203%2B%20SHD%20Geprek.bussidmod",
+      "link_livery":"https://archive.org/download/veera-v-7-non-ac-sleeper-indian/JetBus%203%2B%20SHD%20Geprek.png"
+    },
+	{
+      "title":"Ashok Leyland AP-TSRTC Indian",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/04/SGCA_IMG-27042021-084640.jpg",
+      "link_mods":"https://archive.org/download/veera-v-7-non-ac-sleeper-indian/Ashok%20Leyland%20AP-TSRTC%20Indian.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Prakash Grand BMR Indian",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/04/SGCA_IMG-13042021-141350.jpg",
+      "link_mods":"https://archive.org/download/veera-v-7-non-ac-sleeper-indian/Prakash%20Grand%20BMR%20Indian.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"SKS Scania Bus",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/10/SGCA_IMG-15102021-143550.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/SKS%20Scania%20Bus.bussidmod",
+      "link_livery":"https://archive.org/download/jetbus-2-hd-bus/SKS%20Scania%20Bus.png"
+    },
+	{
+      "title":"Jetbus 3+ SHD O500RS 1836 Gen 2",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/10/SGCA_IMG-11102021-164823.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%203%2B%20SHD%20O500RS%201836%20Gen%202.bussidmod",
+      "link_livery":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%203%2B%20SHD%20O500RS%201836%20Gen%202.png"
+    },
+	{
+      "title":"Jetbus 3+ Shd Hino Rk Airsus Blackpink N2",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/09/SGCA_IMG-15092021-095458.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%203%2B%20Shd%20Hino%20Rk%20Airsus%20Blackpink%20N2.bussidmod",
+      "link_livery":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%203%2B%20Shd%20Hino%20Rk%20Airsus%20Blackpink%20N2.png"
+    },
+	{
+      "title":"Jetbus 2 Ztom",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/09/SGCA_IMG-08092021-143957.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%202%20Ztom.bussidmod",
+      "link_livery":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%202%20Ztom.png"
+    },
+	{
+      "title":"Jetbus 2+ HD Bus",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/09/SGCA_IMG-06092021-175228.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%202%2B%20HD%20Bus.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Jetbus 3+ Shd Hino RK8 Air Suspension",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/09/SGCA_IMG-01092021-142823.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%203%2B%20Shd%20Hino%20RK8%20Air%20Suspension.bussidmod",
+      "link_livery":"https://archive.org/download/jetbus-2-hd-bus/Jetbus%203%2B%20Shd%20Hino%20RK8%20Air%20Suspension.png"
+    },
+	{
+      "title":"Scania Touring Bus",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/08/SGCA_IMG-31082021-062858.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Scania%20Touring%20Bus.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Scorpion X Hino RK",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/08/SGCA_IMG-26082021-150010.jpg",
+      "link_mods":"https://archive.org/download/jetbus-2-hd-bus/Scorpion%20X%20Hino%20RK.bussidmod",
+      "link_livery":""
+    },
+	  {
+      "title":"Avante Full Pack",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-09122021-124939.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/Avante%20Full%20Pack.bussidmod",
+      "link_livery":"https://archive.org/download/hino-sr-2-panorama-v-2/Avante%20Full%20Pack.png"
+    },
+	{
+      "title":"Hino SR2 Panorama V2",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-03122021-145458.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/Hino%20SR2%20Panorama%20V2.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"SR2 XHD ECC R66",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-01122021-120857.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/SR2%20XHD%20ECC%20R66.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Avante Hino Rk8",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-30112021-152132.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/Avante%20Hino%20Rk8.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"SR2 Panorama",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-19112021-060925.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/SR2%20Panorama.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Jetbus 3+ SHD Scania K360",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-25112021-181546.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/Jetbus%203%2B%20SHD%20Scania%20K360.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Jetliner SHD Scania",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-13112021-172836.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/Jetliner%20SHD%20Scania.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Travego Smile",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-05112021-141036.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/Travego%20Smile.bussidmod",
+      "link_livery":"https://archive.org/download/hino-sr-2-panorama-v-2/Travego%20Smile.png"
+    },
+	{
+      "title":"SR2 XDD Scania K410ib Double Decker MN",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-04112021-160752.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/SR2%20XDD%20Scania%20K410ib%20Double%20Decker%20MN.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"JetBus3 SHD",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/11/SGCA_IMG-01112021-161234.jpg",
+      "link_mods":"https://archive.org/download/hino-sr-2-panorama-v-2/JetBus3%20SHD.bussidmod",
+      "link_livery":""
+    },
+	  {
+      "title":"Jetliner Hino RN285",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/02/SGCA_IMG-08022022-160603.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/Jetliner%20Hino%20RN285.bussidmod",
+      "link_livery":"https://archive.org/download/hino-rm-2-bus/Jetliner%20Hino%20RN285.png"
+    },
+	{
+      "title":"Jetbus HD Kuler",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/01/SGCA_IMG-22012022-075009.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/Jetbus%20HD%20Kuler.bussidmod",
+      "link_livery":"https://archive.org/download/hino-rm-2-bus/Jetbus%20HD%20Kuler.png"
+    },
+	{
+      "title":"JetBus3 SHD Scania K360 Ed.1",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/01/SGCA_IMG-14012022-094924.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/JetBus3%20SHD%20Scania%20K360%201.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"JetBus3 SHD Scania K360 Ed.2",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/01/SGCA_IMG-14012022-094924.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/JetBus3%20SHD%20Scania%20K360%202.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"RS Evolution Kuler",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/01/SGCA_IMG-01012022-060500.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/RS%20Evolution%20Kuler.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"SR1 Old Bus",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-29122021-161042.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/SR1%20Old%20Bus.bussidmod",
+      "link_livery":"https://archive.org/download/hino-rm-2-bus/SR1%20Old%20Bus.png"
+    },
+	{
+      "title":"SR2 Scania Tronton XHD Prime",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-24122021-134541.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/SR2%20Scania%20Tronton%20XHD%20Prime.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Old Celcius Bus",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-18122021-162635.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/Old%20Celcius%20Bus.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino RM2 Bus",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-16122021-045934.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/Hino%20RM2%20Bus.bussidmod",
+      "link_livery":"https://archive.org/download/hino-rm-2-bus/Hino%20RM2%20Bus.png"
+    },
+	{
+      "title":"SR2 XHD Full",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2021/12/SGCA_IMG-10122021-084257.jpg",
+      "link_mods":"https://archive.org/download/hino-rm-2-bus/SR2%20XHD%20Full.bussidmod",
+      "link_livery":"https://archive.org/download/hino-rm-2-bus/SR2%20XHD%20Full.png"
+    },
+	{
+      "title":"JB3 Mercedes-Benz Dream Coach Tronton",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-05062022-072804.jpg",
+      "link_mods":"https://archive.org/download/jb-3-mercedes-benz-dream-coach-tronton-mod-bussid/JB3%20Mercedes-Benz%20Dream%20Coach%20Tronton%20Mod%20BUSSID.bussidmod",
+      "link_livery":"https://archive.org/download/jb-3-mercedes-benz-dream-coach-tronton-mod-bussid/AO.png"
+    },
+	{
+      "title":"Laksana Legacy SR2",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-04062022-101347.jpg",
+      "link_mods":"https://archive.org/download/jb-3-mercedes-benz-dream-coach-tronton-mod-bussid/Laksana%20Legacy%20SR2%20Mod%20BUSSID.bussidmod",
+      "link_livery":"https://archive.org/download/jb-3-mercedes-benz-dream-coach-tronton-mod-bussid/Laksana%20Legacy%20SR2%20Mod%20BUSSID.png"
+    },
+	{
+      "title":"JetBus 3+ Kids Panda",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/06/SGCA_IMG-01062022-185007.jpg",
+      "link_mods":"https://archive.org/download/jb-3-mercedes-benz-dream-coach-tronton-mod-bussid/JetBus%203%2B%20Kids%20Panda%20Mod%20BUSSID.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+	{
+      "title":"Old Setra Bus",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/05/SGCA_IMG-22052022-143536.jpg",
+      "link_mods":"https://archive.org/download/jb-3-mercedes-benz-dream-coach-tronton-mod-bussid/Old%20Setra%20Bus%20Mod%20BUSSID.bussidmod",
+      "link_livery":"https://archive.org/download/jb-3-mercedes-benz-dream-coach-tronton-mod-bussid/Old%20Setra%20Bus%20Mod%20BUSSID.png"
+    },{
+      "title":"JB3 Dream Coach",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/05/SGCA_IMG-19052022-221448.jpg",
+      "link_mods":"https://archive.org/download/jb-3-mercedes-benz-dream-coach-tronton-mod-bussid/JB3%20Dream%20Coach.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"JB3 HDD Purnayasa",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/05/SGCA_IMG-11052022-081657.jpg",
+      "link_mods":"https://archive.org/download/avante-h-8-flanker/JB3%20HDD%20Purnayasa.bussidmod",
+      "link_livery":"https://archive.org/download/avante-h-8-flanker/JB3%20HDD%20Purnayasa.png"
+    },{
+      "title":"RS Integra ALS 270",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-13042022-185137.jpg",
+      "link_mods":"https://archive.org/download/avante-h-8-flanker/RS%20Integra%20ALS%20270.bussidmod",
+      "link_livery":"https://archive.org/download/avante-h-8-flanker/RS%20Integra%20ALS%20270.png"
+    },
+	{
+      "title":"MPGT 2 DG",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/04/SGCA_IMG-01042022-090524.jpg",
+      "link_mods":"https://archive.org/download/avante-h-8-flanker/MPGT%202%20DG.bussidmod",
+      "link_livery":"https://archive.org/download/avante-h-8-flanker/MPGT%202%20DG.png"
+    },
+	{
+      "title":"Avante H8 Flanker",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/03/SGCA_IMG-03032022-194420.jpg",
+      "link_mods":"https://archive.org/download/avante-h-8-flanker/Avante%20H8%20Flanker.bussidmod",
+      "link_livery":"https://archive.org/download/avante-h-8-flanker/Avante%20H8%20Flanker.png"
+    },{
+      "title":"Marcopolo Paradiso G6 1800DD 8×2 Scania K420",
+	  "image":"https://i0.wp.com/www.sgcarena.com/wp-content/uploads/2022/02/SGCA_IMG-16022022-133651.jpg",
+      "link_mods":"https://archive.org/download/avante-h-8-flanker/Marcopolo%20Paradiso%20G6%201800DD%208%C3%972%20Scania%20K420.bussidmod",
+      "link_livery":"https://archive.org/download/avante-h-8-flanker/Marcopolo%20Paradiso%20G6%201800DD%208%C3%972%20Scania%20K420.png"
+    },
+	{
+      "title":"Hino Lohan Muatan Kayu",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/14.-Hino-Lohan-Muatan-Kayu.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Lohan-Muatan-Kayu.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Lohan Purwo Logistik Muatan Excavator",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/15.-Hino-Lohan-Purwo-Logistik-Muatan-Excavator.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Lohan-Purwo-Logistik-Muatan-Excavator.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Muatan Batu Bara Livery Keren",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/16.-Hino-Muatan-Batu-Bara-Livery-Keren.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Profia Box Livery Terbaik",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/18.-Hino-Terpal-No-Topi.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Terpal-No-Topi.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Terpal No Topi",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/19.-Hino-Terpal-Oren-Full-Muatan.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Terpal-Oren-Full-Muatan.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Trailer Pengangkut Mobil",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/20.-Hino-Trailer-Pengangkut-Mobil.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Trailer-Pengangkut-Mobil.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Hino-Trailer-Pengangkut-Mobil.png"
+    },
+	{
+      "title":"Bussid Hino 700 Muatan Pipa Beton",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/21.-Hino-700-Muatan-Pipa-Beton.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-700-Muatan-Pipa-Beton.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Tronton Ceper",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/22.-Mod-Bussid-Hino-Tronton-Ceper.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Tronton-Ceper.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Hino-Tronton-Ceper.png"
+    },
+	{
+      "title":"Truck Fuso Muatan Kayu Full Anim Terbaru",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/1.-Truck-Fuso-Muatan-Kayu-Full-Anim-Terbaru.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Fuso-Muatan-Kayu-Full-Anim-Terbaru.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Truck Fuso New Figher C11 Full Anim",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/2.-Truck-Fuso-New-Figher-C11-Full-Anim.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Fuso-New-Figher-C11-Full-Anim.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Truck Fuso TG Kapsul C20 Kotor Full Anim",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/3.-Truck-Fuso-TG-Kapsul-C20-Kotor-Full-Anim.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Fuso-TG-Kapsul-C20-Kotor-Full-Anim.bussidmod",
+      "link_livery":"Truck-Fuso-New-Figher-C11-Full-Anim"
+    },
+	  {
+      "title":"Hino 500 Modifikasi Bumper",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/1.-Hino-500-Modifikasi-Bumper.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-500-Modifikasi-Bumper.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Hino-500-Modifikasi-Bumper.png"
+    },
+	{
+      "title":"Hino 500 Muatan Pipa",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/2.-Hino-500-Muatan-Pipa.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-500-Muatan-Pipa.bussidvehicle",
+      "link_livery":""
+    },
+	{
+      "title":"Hino 500 NG Muatan Semen",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/3.-Hino-500-NG-Muatan-Semen.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-500-NG-Muatan-Semen.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino 500 NG Muatan Sound System",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/4.-Hino-500-NG-Muatan-Sound-System.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-500-NG-Muatan-Sound-System.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino 500 Pengangkut Motor",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/5.-Hino-500-Pengangkut-Motor.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-500-Pengangkut-Motor.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino 700 Kosongan Tanpa Bak",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/6.-Hino-700-Kosongan-Tanpa-Bak.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-700-Kosongan-Tanpa-Bak.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino 700 Profia Muatan Tank",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/7.-Hino-700-Profia-Muatan-Tank.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-700-Profia-Muatan-Tank.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino 700 Tangki Jumbo Angkut Semen",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/8.-Hino-700-Tangki-Jumbo-Angkut-Semen.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-700-Tangki-Jumbo-Angkut-Semen.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Hino-700-Tangki-Jumbo-Angkut-Semen.png"
+    },
+	{
+      "title":"Hino 8 Roda Panjang Tronton",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/9.-Hino-8-Roda-Panjang-Tronton.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-8-Roda-Panjang-Tronton.bussidvehicle",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Dump Original Angkut",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/10.-Hino-Dump-Original-Angkut.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Dump-Original-Angkut.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Engkel 500",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/11.-Hino-Engkel-500.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Engkel-500.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Hino Full Muatan Full Modif Keren",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/12.-Hino-Full-Muatan-Full-Modif-Keren.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Hino-Full-Muatan-Full-Modif-Keren.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Hino-Full-Muatan-Full-Modif-Keren.png"
+    },
+	{
+      "title":"Hino L Muatan Semen",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/13.-Hino-L-Muatan-Semen.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+{
+      "title":"Truk Canter Isuzu NMR 71 Margo Joyo Gold",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/06/1.-Mod-Truk-Canter-Isuzu-NMR-71-Margo-Joyo-Gold.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truk-Canter-Isuzu-NMR-71-Margo-Joyo-Gold.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truk-Canter-Isuzu-NMR-71-Margo-Joyo-Gold.png"
+    },
+	{
+      "title":"Truk Canter Isuzu NMR 71 Margo Joyo Abu Abu",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/06/2.-Mod-Truk-Canter-Isuzu-NMR-71-Margo-Joyo-Abu-Abu.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truk-Canter-Isuzu-NMR-71-Margo-Joyo-Abu-Abu.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Truk Canter Isuzu NMR 71 Margo Joyo Oren",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/06/3.-Mod-Truk-Canter-Isuzu-NMR-71-Margo-Joyo-Oren.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truk-Canter-Isuzu-NMR-71-Margo-Joyo-Oren.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truk-Canter-Isuzu-NMR-71-Margo-Joyo-Oren.png"
+    },
+	{
+      "title":"Truck ABC",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/05/Download-Mod-Bussid-Truck-ABC.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-ABC.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-ABC.png"
+    },
+	{
+      "title":"Truck Black Team Lolipop Full Anim & Strobo",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/05/Download-Mod-Bussid-Truck-Black-Team-Lolipop-Full-Anim-Strobo.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Black-Team-Lolipop-Full-Anim-Strobo.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Black-Team-Lolipop-Full-Anim-Strobo.png"
+    }, 
+	{
+      "title":"JB3+ MHD Voyager",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-JB3-MHD-Voyager.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/MOD-BUSSID-JB3-MHD-Voyager-Dop-Keira.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Bus Voyager Daksina Trans",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bus-Voyager-Daksina-Trans.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Mod-Bus-Voyager-Daksina-Trans.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Mod-Bus-Voyager-Daksina-Trans.png"
+    },
+	{
+      "title":"SHD Jetbus 3+ STJ Biru",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bussid-SHD-Jetbus-3-STJ-Biru.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/SHD-Jetbus-3-STJ-Biru.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Bus SHD JB3+ RK8 ATJ by MD Creation",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bus-SHD-JB3-RK8-ATJ-by-MD-Creation.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/SHD-JB3-RK8-ATJ-by-MD-Creation.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"JB3+ MN RSM Putra Luragung Montel",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/JB3-MN-RSM-Putra-Luragung-Montel.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-MN-RSM-Putra-Luragung-Montel.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JB3-MN-RSM-Putra-Luragung-Montel.png"
+    },
+	{
+      "title":"Bus JB3 Sein Ngalir",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Bus-JB3-Sein-Ngalir-1.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-JB3-Sein-Ngalir-1.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Bus JB3 O500 RS Facelift",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Bus-JB3-Sein-Ngalir.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-JB3-Sein-Ngalir.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Bus Jetbus 3+ Facelift Mercy O500RS",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bus-JB3-O500-RS-Facelift.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-JB3-O500-RS-Facelift.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"UHD JB3+ Full Aksesoris",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bus-Jetbus-3-Facelift-Mercy-O500RS.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+	{
+      "title":"Madu Kismo JB3+ SHD Voyager Terbaru Full Anim",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bussid-UHD-JB3-Full-Aksesoris.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/UHD-JB3-Full-Aksesoris.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/UHD-JB3-Full-Aksesoris.png"
+    },
+	{
+      "title":"Jetbus 3+ Setra Angga Saputro Full Anim",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mad-Kismo-JB3-SHD-Voyager-Terbaru-Full-Anim.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Mad-Kismo-JB3-SHD-Voyager-Terbaru-Full-Anim.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Budiman JB3 Full Strobo & Anim",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Jetbus-3-Setra-Angga-Saputro-Full-Anim.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Jetbus-3-Setra-Angga-Saputro-Full-Anim.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Jetbus-3-Setra-Angga-Saputro-Full-Anim.png"
+    },
+	  
+    {
+      "title":"JB3+ UHD Angga Saputro Voyager",
+	     "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-UHD-Angga-Saputro-Voyager.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-UHD-Angga-Saputro-Voyager.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+	   {
+      "title":"JB3+ UHD Angga Saputro Facelift Full Acc",
+	     "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-UHD-Angga-Saputro-Facelift-Full-Acc.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-UHD-Angga-Saputro-Facelift-Full-Acc.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+    {
+      "title":"JB3+ UHD Angga Saputro Facelift",
+	     "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-UHD-Angga-Saputro-Facelift.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-UHD-Angga-Saputro-Facelift.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+	   {
+      "title":"JB3+ HDD Non Facelift Angga Saputro Full Acc",
+	      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-HDD-Non-Facelift-Angga-Saputro-Full-Acc.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-HDD-Non-Facelift-Angga-Saputro-Full-Acc.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JB3-HDD-Non-Facelift-Angga-Saputro-Full-Acc.png"
+    },
+   {
+      "title":"SR2 XHD Prime Scania K410iB",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-SR2-XHD-Prime-Scania-K410iB.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Scania-K410iB.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Scania-K410IB.png"
+    },
+    {
+      "title":"Bus SR2 Panorama",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Bus-SR2-Panorama.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/BUS-SR2-Panorama.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/BUS-SR2-Panorama.png"
+    },
+    {
+      "title":"Bus Jetliner SHD Hino RK8",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Bus-Jetliner-SHD-Hino-RK8.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-Jetliner-SHD-Hino-RK8.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/BUS-Jetliner-JT-WSP.png"
+    },
+    {
+      "title":"SR2 XHD Prime Scania K410iB",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-SR2-XHD-Prime-Scania-K410iB-Varian-Sumatra.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Livery-NPM-SR2-Tronton-UMP.png",
+      "link_livery":"https://wadahpintar.com/bussid/XHD-Prime-Scania%20K410iB-Varian-Sumatra.bussidmod"
+    },
+    {
+      "title":"JB3+ SHD Volvo B11R",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-JB3-SHD-Volvo-B11R.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Volvo-B11R.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JB3-Volvo-as-X-FM.png"
+    },
+    {
+      "title":"Bus Scania Touring",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Bus-Scania-Touring.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-Scania-Touring.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"BUSSID Bus Transjakarta Gandeng",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Bus-Transjakarta-Gandeng.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-Transjakarta-Gandeng.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Bus Marcopolo Paradiso 1800DD",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Marcopolo-Paradiso-1800DD.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Marcopolo-Paradiso-1800DD.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Vidrio-Marcopolo-Paradiso.png"
+    },
+   {
+      "title":"Bus SR2 XHD Scania K410iB",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/03/MOD-BUSSID-Bus-SR2-XHD-Scania-K410iB.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/SR2-XHD-Scania-K410iB-V1-Standar.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Putra-Pelangi.png"
+    },
+   {
+      "title":"Bus Bumel Sumber Kencono",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Bus-Bumel-Sumber-Kencono.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bumel-Sumber-Kencono.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Umplung Kantor Rafael Wedding",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Umplung-Kantor-Rafael-Wedding.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Umplung-Kantor-Rafael-Wedding.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Umplung-Libom-Kantor-Rafael-Wedding.png"
+    },
+   {
+      "title":"Monster Truck Seventy Indonesia",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Monster-Truck-Seventy-Indonesia.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Monster-Truck-Seventy-Indonesia.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Volvo FMX 440",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Volvo-FMX-440.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Volvo-FMX-440.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Volvo-FMX-440.png"
+    },
+   {
+      "title":"Truck UD Quester Bak Muat Kayu",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-UD-Quester-Bak-Muat-Kayu.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-UD-Quester-Bak-Muat-Kayu.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-UD-Quester-Bak-Muat-Kayu.png"
+    },
+   {
+      "title":"Truck Fuso FN Wing Box",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Fuso-FN-Wing-Box.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Fuso-FN-Wing-Box.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Fuso-FN-Wing-Box.png"
+    },
+   {
+      "title":"Truck Canter NMR JSK Concept Star Light",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-NMR-JSK-Concept-Star-Light.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JSK-Concept-Star-Light.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JSK-Concept-Star-Light.png"
+    },
+   {
+      "title":"Truck Canter Giga Restu Bunda",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Giga-Restu-Bunda.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Restu-Bunda-No-Terpal.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Restu-Bunda-No-Terpal.png"
+    },
+   {
+      "title":"Truck Hino Trailer Pencuri Traffic",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Hino-Trailer-Pencuri-Traffic.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Hino-Trailer-Pencuri-Traffic.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Canter Sujama Malika",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Sujama-Malika.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Sujama-Malika.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Sujama-Malika.png"
+    },
+   {
+      "title":"Truck MAN Damkar",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-MAN-Damkar.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-MAN-Damkar.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Jetbus 2 Travego",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Jetbus-2-Travego.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Jetbus-2-Travego-Dop-Ring-V1.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3 Dream Coach",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-JB3-Dream-Coach.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-Dream-Coach.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JB3-Dream-Coach.png"
+    },
+   {
+      "title":"Jet X Bus",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Jet-X-Bus.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Jet-X-Bus.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3+ O500RS Angga Saputro",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-JB3-O500RS-Angga-Saputro.jpeg",
+      "link_mods":"",
+      "link_livery":""
+    },
+   {
+      "title":"Mobil Toyota Hiace",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Mobil-Toyota-Hiace.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Mobil-Toyota-Hiace.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Mobil-Toyota-Hiace.png"
+    },
+   {
+      "title":"Bus Transjakarta",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-Bus-Transjakarta.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-Transjakarta.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3+ SHD Mercy O500RS Angga Saputro Voyager",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-JB3-SHD-Mercy-O500RS-Angga-Saputro-Voyager.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Mercy-O500RS-Angga-Saputro.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3+ SHD Mercy O500RS Angga Saputro Voyager",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-JB3-SHD-Mercy-O500RS-Angga-Saputro-Voyager.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3+_SHD-Mercy-O500RS-Angga-Saputro-Voyager.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3+ SHD Mercy O500RS Angga Saputro Facelift",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-JB3-SHD-Mercy-O500RS-Angga-Saputro-Facelift.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Mercy-O500RS-Angga-Saputro-Facelift.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Avante D2 SDD",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-Avante-D2-SDD.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Avante-D2-SDD.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Avante-D2-SDD.png"
+    },
+   {
+      "title":"Bus New Armada Evonext Gen 2",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Bus-New-Armada-Evonext-Gen-2.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-New-Armada-Evonext-Gen-2.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Canter Republik Gabah",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Republik-Gabah.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Canter-Republik-Gabah.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Canter-Republik-Gabah.png"
+    },
+   {
+      "title":"Truck Canter Public Figure",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-Public-Figure.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Canter-Public-Figure.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Canter-Public-Figure.png"
+    },
+   {
+      "title":"Truck Canter 010 Full Box Mbois",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-Canter-010-Full-Box-Mbois.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Canter-010-Full-Box-Mbois.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Canter-010-Full-Box-Mbois.png"
+    },
+   {
+      "title":"Truck UD Quester Trailer ISO Tank",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Truck-UD-Quester-Trailer-ISO-Tank.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-UD-Quester-Trailer-ISO-Tank.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-UD-Quester-Trailer-ISO-Tank.png"
+    },
+   {
+      "title":"Truck Liebherr LTM 1300-6.2 Crane",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Liebherr-LTM-1300-6.2-Crane.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Liebherr-LTM-1300-6.2-Crane.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Tractor Ural",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Tractor-Ural.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Tractor-Ural.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Si Optimum Pride",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Si-Optimum-Pride.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Si-Optimum-Pride.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Mitsubishi Fuso Tronton Box",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Mitsubishi-Fuso-Tronton-Box.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Mitsubishi-Fuso-Tronton-Box.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Scania P420 Car Transporter",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Scania-P420-Car-Transporter.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Scania-P420-Car-Transporter.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Canter NKR Tebu Racing",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Canter-NKR-Tebu-Racing.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Canter-NKR-Tebu-Racing.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Canter-NKR-Tebu-Racing.png"
+    },
+    {
+      "title":"JB3+ SHD Setra Angga Saputro Hino RK8",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-SHD-Setra-Angga-Saputro-Hino-RK8.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Setra-Angga-Saputro-Hino-RK8.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"B3+ SHD Voyager Angga Saputro Hino RK8",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-SHD-Voyager-Angga-Saputro-Hino-RK8.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Voyager-Angga-Saputro-Hino-RK8.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Elf NLR 55 BLX Bumper Avante",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Elf-NLR-55-BLX-Bumper-Avante.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Elf-NLR-55-BLX-Bumper-Avante.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Elf-NLR-55-BLX-Bumper-Avante.png"
+    },
+   {
+      "title":"JB3 Oleng Di Tempat",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-Oleng-Di-Tempat.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-Oleng-Di-Tempat.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Setra JB2+ HD – Varian 3",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Setra-JB2-HD-Varian-3.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Setra-JB2-HD-Varian-3.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Setra-JB2-HD-Varian-3.png"
+    },
+   {
+      "title":"Setra JB2+ HD – Varian 2",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Setra-JB2-HD-Varian-2.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Setra-JB2-HD-Varian-2.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Setra-JB2-HD-Varian-2.png"
+    },
+   {
+      "title":"ELF NLR 55 BLX Bumper Jetbus 3",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/ELF-NLR-55-BLX-Bamper-Jetbus-3.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/ELF-NLR-55-BLX-Bamper-Jetbus-3.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/ELF-NLR-55-BLX-Bamper-Jetbus-3.png"
+    },
+   {
+      "title":"JB3+ Full Kejutan",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-Full-Kejutan.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-Full-Kejutan.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3+ UHD Angga Saputro Voyager Full Acc",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-UHD-Angga-Saputro-Voyager-Full-Acc.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-UHD-Angga-Saputro-Voyager-Full-Acc.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Canter Box Kardus Balap",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Canter-Box-Kardus-Balap.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Canter-Box-Kardus-Balap.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Canter-Box-Kardus-Balap.png"
+    },
+   {
+      "title":"Truck UD Quester Tam Cargo New Bodyguard",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-UD-Quester-Tam-Cargo-New-Bodyguard.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-UD-Quester-Tam-Cargo-New-Bodyguard.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-UD-Quester-Tam-Cargo-New-Bodyguard.png"
+    },
+   {
+      "title":"Truck Canter New Kanjeng Mami",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Canter-New-Kanjeng-Mami.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Canter-New-Kanjeng-Mami.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Canter-New-Kanjeng-Mami.png"
+    },
+   {
+      "title":"Truck UD Quester Trailer Tangki",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-UD-Quester-Trailer-Tangki-1.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-UD-Quester-Trailer-Tangki-1.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-UD-Quester-Trailer-Tangki-1.png"
+    },
+   {
+      "title":"Truck Pemadam Kebakaran Iveco Bombeiros",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Truck-Pemadam-Kebakaran-Iveco-Bombeiros.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Pemadam-Kebakaran-Iveco-Bombeiros.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Scania P360 Pemadam Kebakaran",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Truck-Scania-P360-Pemadam-Kebakaran.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Scania-P360-Pemadam-Kebakaran.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Canter Samudra Nusantara",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/Canter-Samudra-Nusantara.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Canter-Samudra-Nusantara.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Canter-Samudra-Nusantara.png"
+    },
+   {
+      "title":"Truck Mercedes-Benz Truck Racing",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Truck-Mercedes-Benz-Truck-Racing.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Mercedes-Benz-Truck-Racing.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Truck Canter Ayam Bodykit Samudra Nusantara",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Truck-Canter-Ayam-Bodykit-Samudra-Nusantara.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Canter-Ayam-Bodykit-Samudra-Nusantara.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Truck-Canter-Ayam-Bodykit-Samudra-Nusantara.png"
+    },
+   {
+      "title":"Truck Mercedes-Benz Motorhome",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/09/MOD-BUSSID-Truck-Mercedes-Benz-Motorhome.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Truck-Mercedes-Benz-Motorhome.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"JB3+ Mercy 0500R Tividi",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNzB8ieXPlmq462hlnJvT-nEVs4rXIHAyH7lcnlGLdZ1KJlqXhqeO9d2cttLOmG2ii2OPYvZS5qEmwX2WOqsySjUeZSDBj8Move-R2hwsnHhdd8pRK257rZWPvfyf5LTX1iS-RBvUC3M1ZeUY_ICjQwhV_9sPxNTQwDgo2qO0045u1xaKeR8oCxrg/s320/JB3+%20Mercy%200500R%20Tividi.png",
+      "link_mods":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg21kTrpSairzfF5uJjHQ5aEdUDRd4xLsTvtdgY9cXBT7UVdCO8Qrkz8SzQw2qCetkvjiKPIkLFFpUAeeAFqWXX9GRjMsPV-APWecWMbGd37rnGY337F5H985MLuGNO263i_pUMGT46wqB9J6WKQ0Ef-ZTvGM0Fnk4hPa_tNXUw9ic2Brf_ANXeS_Q/s16000/Sumber%20alam%20legacy%20sr2%20hd%20ksy.png",
+      "link_livery":"https://www.mediafire.com/view/wc13t55bbfg0u3k/Tividi_Green_JB3_Mercy_O500R_Standard_By_Rmj_ALDroidNET.png/file"      
+    },
+	{
+      "title":"SR2 HD Sumber Alam",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg21kTrpSairzfF5uJjHQ5aEdUDRd4xLsTvtdgY9cXBT7UVdCO8Qrkz8SzQw2qCetkvjiKPIkLFFpUAeeAFqWXX9GRjMsPV-APWecWMbGd37rnGY337F5H985MLuGNO263i_pUMGT46wqB9J6WKQ0Ef-ZTvGM0Fnk4hPa_tNXUw9ic2Brf_ANXeS_Q/s16000/Sumber%20alam%20legacy%20sr2%20hd%20ksy.png",
+      "link_mods":"https://www.mediafire.com/file/w8v367zqcdcqm55/SR2_HD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/6co4fzmahv7xzb2/Sumber_Alam_Legacy_Sr2_HD_sky.png/file"      
+    },
+	{
+      "title":"JB2+ SHD Rombak Racing",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFIm9HoKGlu-W5bM34iNi5VO7lNkOnihLZNrHAdFRZ8udDHayhguYi30rn2MawXBBB1KPUFdIjz-bVUldaohbRGS5FOzB2cDPnETnygPSEjalbV-Vovg24D3EW5B1IYY5TGCTi-rE2NrE6OZnvicdVK67qGTXpRrYVuhzK2JFRjwUkaq8zLRIkiuQ/s1600/JB2+%20SHD%20Rombak%20Racing%20v2.png",
+      "link_mods":"https://www.mediafire.com/file/mmlkfww926a2v9k/JB2%252B_SHD_RACING_FULL_LED_UPDATE_V2_ZONE_ID.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/po05smj1h9vdj38/HR_RELIGIE_JB2_SHD_ROMBAK_by_Fam.png/file"      
+    },
+	{
+      "title":"New Avante D2",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWJPx14nJHR5ocTGZ4JFbjVvCxkUyd3TMvlaAs4tqDJWLYHk503hymchvxHqbULN1ymWB3rEGD-lMSwfEuxqD_4bAMwTFm3S3Wk_-_Amic4GnSYS0ZDkEX7K-bTNJrywMZ9do9EuB0UYohdzI2Epbq_cHot2ZeiLYDToY2-X0hSF_sDPCWBmDtz_k/s1600/sinar%20jaya%20new%20avante%20d2.png",
+      "link_mods":"https://www.mediafire.com/file/3q9orb2vnhci65c/AVANTE_D2_SHARE_BY_JODS_TV.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/qq1d34m7rc6t12q/sinjay.png/file"      
+    },
+	{
+      "title":"JB3+ Full Strobo",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAq3vmQ1bC1sBtTyJTzQ9f5Om1KztQHyjDxlB7DgAB6K381fEf6oOysTG2YgZzhuxrMOtPyRBXFqK1cyOhv9bylGOoU34L9FLHW1HoaEpflsCTWgsvugJBJDNmLD33Ulnb2xcNuCHZ_DXADKtCdWNPAqbEUyotczhQzvY3Ymh7PV5hVDmKYb06CfY/s1600/JB3+%20Full%20Strobo.png",
+      "link_mods":"https://www.mediafire.com/file/wmv4t0zibpcs2oc/ALCOA_FULL_FARIASI.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/ohgdlpuim4pngx5/Black_custom_DROGBA_by_Bony_Bdm.png/file"      
+    },
+	{
+      "title":"New JB3+ K410iB",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIqBwCt8--3E-09LYwGPRqsWNf_jwkgT0AgelEuetFRaT1HsfYEe540m_EDja48ffIEGS29ZGUl5Up1iXbj_VIhoqBI4cKrmHTDYcLWg2zIID0hoJWf9DIq4C2qVAPy9NqHrblQMfy1Xe5wxEqfp0Om95z9YhCUNM33qLeQ1u_i2VOKT9fyXIbK2g/s16000/New%20JB3+%20K410iB%20Juragan%2099.png",
+      "link_mods":"https://www.mediafire.com/file/9wt320l9yipcbsd/SHD_SCANIIA_K410_IB_STD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/i2d1a896e7nmr5y/Juragan_99_Scania_K410.png/file"      
+    },
+	{
+      "title":"JB3 Cirebon Style Full Anim",
+      "image":"https://i.ytimg.com/vi/lBN4EcrLQ-c/mqdefault.jpg",
+      "link_mods":"http://www.mediafire.com/file/skvbk4eb68ojom3/JB3%252B_CIREBON_STLYE_%255BRMP%255D.bussidmod/file",
+      "link_livery":"http://www.mediafire.com/view/gul8qd56u3rjjp9/RMP_HIDAYAH.png"      
+    },
+	{
+      "title":"Bris Trans Tuan Muda",
+      "image":"https://galeribussid.com/wp-content/uploads/2022/05/Spesial-THR-2022-MOD-JB3-Bris-Trans-3-Unit-AS-FM.jpg",
+      "link_mods":"https://www.mediafire.com/file/rk6n0lao3bd4utq/Hino_RK_Varian_1.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/frehg6w9r6wt6wi/bristrans_Tuan_muda_new_font_by_Hanafi_Hardiyan.png/file"      
+    },
+	{
+      "title":"Srikandi SDD Full Anim",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicdnzKtfbMnUbeKcb05qxSQuZMnyibDBJgVoz5u2hesGgjyNScd9MMbQ1hh7QfGO4u2LO0S8dOn9wvv7U0iHclDnFllFW-WcIIe6mb5rUXHVATQXt0hvIIiLQTPqRamIDJWk-54ysF6FkbsJnDn2b6_8mSw_H3pMBo63UAKXfrKEr3vLbQRoO4tGI/s1600/Mod%20Srikandi%20SDD%20Full%20Anim.png",
+      "link_mods":"http://www.mediafire.com/file/ppbsrqwtw85romn/SRIKANDI_SDD.bussidmod/file",
+      "link_livery":"null"      
+    },
+	{
+      "title":"Marcopolo Paradiso",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglM9IkqY-dTaAU3idVlOc6rLIU-bFobbyam8StDD_AiDclENa5wKpRRNfEg0rOq19nBdbbST0l14KdBM1rNv44UCxK3oSUT_XDJ8pyNuA2bWQuIZt2-196qWTfs1Q3_pDWjxwr1RcWmFt47gbqdFXgzbVZc8-wbOdjzFiw-w5G1bSCUnp2EgbobVc/s1600/Mod%20Marcopolo%20Paradiso.png",
+      "link_mods":"https://www.mediafire.com/file/us9fh2jvs874hdj/Marcopolo_Paradiso_1800DD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/xb5pftloavbb9mz/marc_by_wesley_rhavy.png/file"      
+    },
+	{
+      "title":"Dream Coach Pahala Kencana",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdcnS2c7UaenO6p8z8p5Ld-CPA7JFzLsI2KX39KKn4kEljYvt536RC3dQPBC3gnBwCgRcB7EQnfCTYq9aJ5b-6KarkJ6YwN4PFW3AdeQ5q8H55tcXbVBB5TXvuBNwZaRQL3heLOwMqkz0_MnpU8hjAue5ie71vnVatRgf4iCbjxUeb3QyQZuu4QwU/s1600/Dream%20Coach%20Pahala%20Kencana.png",
+      "link_mods":"https://www.mediafire.com/file/5y89l5fhfpr1ehg/DREAM_COACH.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/p8q95dc1dvhtsq8/Livery_Dream_Coach_Pahala_Kencana_%2528MDC%2529By_Jeffry_Bussid.png/file"      
+    },
+	{
+      "title":"JB3+ SHD Handoyo",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4bfYWC7tAHHeLQQ9sfrjrsmJO8gJYuQF0PA4BOa9yyT7_VqvvX7secuqENA4W0MhPw26cSzjPny44m7X-kAp4DJZJz-I-d9sUeR-jVf20XgQ4XvL2PaaD9T1pI7ihwMcI5TygjApgudKxhO1h0ZA6EKkfPs2jY7mBKwgAR8mjbkkTx39ua6EDLtE/s16000/JB3+%20SHD%20Handoyo.png",
+      "link_mods":"https://www.mediafire.com/file/1k8yxlhkobkn2g4/JB3_SHD_HINO.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/ha3idhzodnb8bw7/Handoyo_JB3_by_Blahbloh.png/file"      
+    },
+	{
+      "title":"JB3+ MHD Blue Star",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirmBAnw2YLgjhOtvHYj-eqKUhGhAmg6IJZSOlXXt7_xMQyEHOqogieRegQdotXO2P2IyYoJT-tA5ZnJxhtgOik1HCst3hpZ1bdUjmueGMiu2AybLOgUgMHPto3sr9h2qE59lEDDv1-J4OBwYvSxuT2yCrtfjJ3XaRXFhepokmeJ1n0YwWn1cV5DrQ/s1096/JB3+%20MHD%20BLUE%20STAR.png",
+      "link_mods":"https://www.mediafire.com/file/wunkznxi6izpv0m/JB3%252B_MHD.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/c6q50vg9gqmld3b/MD-MHDV2-Blue_Star_by_Mizta.png/file"      
+    },
+	{
+      "title":"ALS Euroliner v5 Berkarat",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxazwh78qOSVIlc1dZMV4Cy9tpS8eTQJ66J3VNOUJ9iGP9B9SwxQ5BMK90Igdv-7nGd9EN2494fsSuCPVD43HPE6uv01lO_gXoCVcxeY3v10D4Ss_VtUxX_rDtuTu6ZxuLyDszxcKhr3_75GHS1-dBDr_s0BJ7KZb6rXGAC0wZEvrUBBhRHDRr9IQ/s16000/ALS%20Euroliner%20v5%20Berkarat.png",
+      "link_mods":"https://www.mediafire.com/file/hj5hwzfw1slmxjq/Euroliner_var5.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/91ak6a5vej935zc/A.L.S_LEGEND_EUROLINER_KARATAN.png/file"      
+    },
+	{
+      "title":"Rosalia Indah Berkarat Titanium",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXp2tiDzjLm_A6tQZrf48WJnCdeI_f6z17wkvvrBYm3RZ_auOQjtPLKxfRxXcmIl6qQpXu37rV4zzK9xllQYYOzJQFBGB5BjclLxG4vwynPT72zy91VUkDa36AyFi38LubqEVNcjeLxUMtePmB0bcymwTc4NYLlri8YRAmsZamtKREJCnqFpAeJvQ/s1600/Rosalia%20Indah%20Berkarat%20Titanium.png",
+      "link_mods":"https://www.mediafire.com/file/vpy4nkgeczivese/titanium.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/z85ka0qszah9m20/Rosin_berkarat_Titanium_Mulil_by_Blahbloh.png/file"      
+    },
+	{
+      "title":"Sumber Kencono Berkarat Kotor Titanium",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwhBpkPFtiVJBMIL90oJjPle8S0T180NqJbOxR_nn8F72xe9mXqUpZUYdyhBLMWRKf8MRzQzsvLMWO04Ux79Im1I-ffdHYllxVNeJqJuNR2VbQSxebZEhiHm2M8yPHksVVXdMlVkO0xNuGEPnQLvwE3eRZWuk747RKAkZDhUp7vzsbysOtneQ6RaU/s1600/Sumber%20kencono%20berkarat%20kotor%20titanium.png",
+      "link_mods":"https://www.mediafire.com/file/8ellabhwqkge331/titanium.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/ku4bupuq5utlcwu/SUMBER_KENCONO_LAWAS_AKAP_KOTOR_TITANUM_TRISAKTI_BY_RMJUPDATE.png/file"      
+    },
+	{
+      "title":"New Patriot Harapan Jaya",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG3elpsBHB49lyLz_ouAiLYpP9F83HtaXg149kEMd7b6Il5n6wAOzGl_suS6cc5BYPl2CZpq0vSMSPO9AUr-Lktt3b2gtVqRQa8VMz3XrXcNt_Ddyo0OydMMRy6P6n0rqz5CtEqhr6W5dGO6O-T0jzLnmuixPJSTch90PeQCZUWWcbGnRkkPIvt9M/s16000/NEW%20PATRIOT%20HARAPAN%20JAYA.png",
+      "link_mods":"https://www.mediafire.com/file/yzuvhit07ldhdke/NEW_PATRIOT_SHARE.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/qdq6barac05crn2/New_Boxer_Harjay.png/file"      
+    },
+	{
+      "title":"Metromini",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivdXJCNmUG-uAEirIW2TBOZIoOss6_PRKg3C0Vc_IYGBAfbAlR4P3pouhes8hFydnoiPTjZpkxYBfgyYaXq9Cn5bsAwu8Stca51T_75Xr7RwKAf0daZZdPecZ8nnhr0kMXaFz1Ita7LzB195VaWSOj8AffHuzA9bULam8xMqK6O_FRyuT5FCEzIKo/s16000/METROMINI.jpg",
+      "link_mods":"https://www.mediafire.com/file/cajd3bgzy7znwef/METROMINI.bussidmod/file",
+      "link_livery":"null"      
+    },
+    {
+      "title":"PO. HARYANTO JB2 FULL LED",
+      "image":"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcUvAE-t0pU0om91Pr37B16DfrAoFPd8Mx8C00lMQfEDHeLQzgU11e_pdHpJwD-9eZ8QJej6OPhm2VG2Wl2jsDZ2SkT9iqEcYP09MiPRAstaG4smeyEc2XuNEl1rfLXMQLHeRA7BqMLCN3Xb5-kP-lw_oJVskI4oEik4PCFYJDbpC4rfiPXHunEoM/s1600/JB2%20FULL%20LED%20HARYANTO.png",
+      "link_mods":"https://www.mediafire.com/file/1jafm711mrwxewx/JB2_FULL_LED_UPDATE_V1_CVT_ZoneID-1.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/a2vpwip0kd3m4iy/HR_The_King_jb2_ZTOM_X_MDC_by_Akbar_Click-picsay.png/file"  
+    },
+    {
+      "title":"JB3+ SDD VOYAGER",
+      "image":"https://1.bp.blogspot.com/-GzKUAnF7NA8/X5_IMv-fEuI/AAAAAAAAECo/xXoe40I6FIgFV922a51el8oQI1q3i8c6wCLcBGAsYHQ/w1200-h630-p-k-no-nu/Screenshot_2020-11-02-15-26-01-656_com.maleo.bussimulatorid.jpg",
+      "link_mods":"https://www.mediafire.com/file/rcmnb2dwh34zoj7/JB3%252B_SDD_VOYAGER_SHARE_BY_JODS_TV.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/sv5yzd58fq80irk/Pandawa_SDD_by_Blahbloh.png/file"
+    },
+    {
+      "title":"JB3 SHD Hino 44 Trans Strobo",
+      "image":"https://image.winudf.com/v2/image1/Y29tLm1vZGJvc21vZWRhLmJ1c3NpZGpldGJ1czNfc2NyZWVuXzBfMTU3NTQzMzY2MV8wMjU/screen-0.jpg?h=500&fakeurl=1&type=.jpg",
+      "link_mods":"https://www.mediafire.com/file/kdeszd3dud0uv9b/facelift.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/nafn0f0axndor8e/livery_44trans_jb3_Hino_update_FM_by_GTA_XD.png/file"
+    },
+    {
+      "title":"ROSIN SSD Detail Full Lampu",
+      "image":"https://1.bp.blogspot.com/-slTzxTsqEgA/XWZL61cb0SI/AAAAAAAABME/OIot1_DoJzg_oSnNjArc9V79Kmxm0ZUPwCLcBGAs/s1600/mod_jb2%252B_super_double_decker_payoengi.com.jpeg",
+      "link_mods":"https://www.mediafire.com/file/5d5jklwgojthdb0/sdd3_voyager_winglet.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/8gkaesfr44hbhxq/Rosin_SDD_MDC_by_Blahbloh.png/file"
+    },
+    {
+      "title":"SDD 4 AXLE VOLVO",
+      "image":"https://1.bp.blogspot.com/-zfBTNWTjcd4/XQdicvBE0eI/AAAAAAAADW8/eLmvj-Pd4E4DMVQ0A2K_eDcEQZs8jZbWQCLcBGAs/s1600/mod%2Bbussid%2Bbus%2Bsdd%2B4axle%2Bby%2Bzilla%2Bwsp%2Bmods.jpeg",
+      "link_mods":"https://www.mediafire.com/file/1ffkm179n53wz38/JB2%252B_Sdd_4_Axle_Volvo_B11R.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/y64rvxoqnttdk1q/SUNBREAKER_NEW_STIKER_HM_012_UPDATE_JB3_MHD_1626_VOYAGER_BY_GARASITUBE.png/file"     
+    },
+    {
+      "title":"Mod JB3+ SHD Hino RK",
+      "image":"https://i.ytimg.com/vi/L625dG4Acms/maxresdefault.jpg",
+      "link_mods":"https://www.mediafire.com/file/z5o6k8e4cg0tl4d/JB3%252B_SHD_HINO_RK.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/lxmtb2sqosixyqn/JB3_HINO_PINTU_TENGAH_-_STJ_VIOLA.png/file"
+    },
+    {
+      "title":"PO. Haryanto SR2 NRS ECE R66 V3",
+      "image":"https://1.bp.blogspot.com/-WanwFuZ2gJI/YH48BYGKSGI/AAAAAAAAF_8/B8cJblw9CTk04PvDl4M_ygR36m-LOpKWQCNcBGAsYHQ/s560/PO.%2BHaryanto%2BSR2%2BNRS%2BECE%2BR66%2BV3.jpeg",
+      "link_mods":"https://www.mediafire.com/file/gzfr7lgvuz7isj9/final_sr2.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/w0mpwvt8lbd8wol/SR2_PO_HARYANTO.png/file"     
+    },
+    {
+      "title":"Harapan Jaya",
+      "image":"https://gameitu.com/wp-content/uploads/2022/04/Mod-Bussid-Harapan-Jaya.jpg",
+      "link_mods":"https://aliendro.id/uploads/busid/SR2%20Triple%20Axle.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Livery%20Harapan%20Jaya%20SR2%20Triple%20Axle.png"      
+    },
+    {
+      "title":"Livery Zentrum JB2 SHD",
+      "image":"https://aliendro.id/uploads/busid/MOD-BUSSID-JB2-SHD.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/JB2%20SHD.bussidmod",
+      "link_livery":"null"
+    },
+    {
+      "title":"ELF Pariwisata",
+      "image":"https://gameitu.com/wp-content/uploads/2022/03/3.-Download-Mod-Bussid-ELF-Pariwisata.jpg",
+      "link_mods":"https://drive.google.com/file/d/1O6cwXG9kO4v6dlb2gqCBBLA-QXWYDJ-V/view?usp=sharing",
+      "link_livery":"https://drive.google.com/file/d/1qvBBLSfQcfPiuaY1qcD9gr24Uufewnyo/view?usp=sharing"      
+    },
+    {
+      "title":"Avante ES MOD",
+      "image":"https://1.bp.blogspot.com/-uq7mK3F2xZM/XFz96Fbtm4I/AAAAAAAADA4/_G29ZZNunl4MXF_AMnuFvOYI9N4yjWbfgCLcBGAs/s1600/Screenshot_2019-02-08-10-53-15-524_com.maleo.bussimulatorid.png",
+      "link_mods":"https://www.mediafire.com/file/skma4ytnog3b5ag/Avante_D2_ESMod023.bussidmod/file",
+      "link_livery":"null"
+    },
+    {
+      "title":"Bus Persib Full Strobo",
+      "image":"https://pbs.twimg.com/media/Ds71ZbVU0AA8CiF.jpg",
+      "link_mods":"https://www.mediafire.com/file/a8isjk2ztughfrg/SR2_ECE_R66_scania_ceper.bussidmod/file",
+      "link_livery":"https://www.mediafire.com/view/jl6iv1k1ns29bg7/persib_bandung_by.angga.png/file"
+    },
+    {
+      "title":"Truck Canter Ayam Racing Full Anim",
+      "image":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/gambar/Truck%20Canter%20Ayam%20Racing%20Full%20Anim.jpg",
+      "link_mods":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/mod/7.%20CANTER%20AYAM%20RACING%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/livery/Truck%20Canter%20Ayam%20Racing%20Full%20Anim.png"
+    },
+    {
+      "title":"Canter Bangunan",
+      "image":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/gambar/canter%20bangunan.jpg",
+      "link_mods":"http://fakecallprank.my.id/%20Bussid%20Mod%20Truk%20Ayam%20Balap%20/mod/Canter%20Bangunan%20Muatan%20Semen.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Mod Wahyu Abadi Full Strobo",
+      "image":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/gambar/maxresdefault%20%284%29.jpg",
+      "link_mods":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/mod/3.%20WAHYU%20ABADI.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/livery/3.%20Livery%20wahyu%20abadI%20fam8os%20by%20RGDESIGN..png"
+    },
+    {
+      "title":"Truck Canter Kalimantan",
+      "image":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/gambar/mod%20bussid%20canter%20dump%20kalimantan%20style.jpg",
+      "link_mods":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/mod/5.%20CANTER%20KALIMANTAN%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/livery/5.%20LIVERY%20KOTOR%20CANTER%20KALIMANTAN.png"
+    },
+	{
+      "title":"Canter Oleng Sweet Angel",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-48.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/4.%20CANTER%20SWEET%20ANGEL%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"truck Oleng Canter ayam velg racing",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-56.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/7.%20CANTER%20AYAM%20RACING%20SHARE%20BY%20JODS%20TV%20%281%29.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/livery/racing%20ayam.png"
+    },
+    {
+      "title":"Truck Canter Oleng Tronton",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-53.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/canter%20tronton.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/livery/canter%20tronton.png"
+    },
+	{
+      "title":"Zed One",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-40.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/TK_ZED_ONE_BC_V1_.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Tiger%20Bc%20Template.png"
+    },
+    {
+      "title":"KONDODY_HITECH_ROBIN",
+      "image":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/gambar/photo_2022-05-10_07-20-12.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/KONDODY_HITECH_ROBIN.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/robin.png"
+    },
+    {
+      "title":"Tiger Bodycode V1",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-38.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/tigerbodycode.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Sagara%20Skin.png"
+    },
+    {
+      "title":"ARROW Coach Vega",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-36.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/arrow%20coach%20vega.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/chothi.png"
+    },
+    {
+      "title":"My Maruthi",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-50-37.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/mod/my_maruthi.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Putra Manunggal",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-31.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/NKR%20BOX%20PUTRA%20MANUNGGAL%20%5BRMC%20CREATION%5D.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/Putra%20Manunggal%20By%20LfDesign.png"
+    },
+    {
+      "title":"Truck Box Indomie",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-25.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/Canter%20Box%20Balap%20indomie.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/Livery%20Box%20Balap%20indomie.png"
+    },
+    {
+      "title":"Truck Canter Purel",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-27.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/3.%20truck%20canter%20purel.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/3.%20livery%20truck%20canter%20purel.png"
+    },
+	{
+      "title":"Canter Muatan Beras",
+      "image":"http://fakecallprank.my.id/Bussid%20Complete%20Mod%20for%20Bussid%20/gambar/photo_2022-05-12_09-12-43.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Complete%20Mod%20for%20Bussid%20/mod/CanterMuatanBeras.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Mod Bus Euroliner ALS",
+      "image":"http://fakecallprank.my.id/Bussid%20mos%20antar%20lintas%20sumatra/gambar/Euroliner-ALS.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20mos%20antar%20lintas%20sumatra/mod/1.%20Euroliner%20var5%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20mos%20antar%20lintas%20sumatra/livery/euroliner.png"
+    },
+    {
+      "title":"Mod Bus ALS (Antar Lintas Sumatera) Marcopol",
+      "image":"http://fakecallprank.my.id/Bussid%20mos%20antar%20lintas%20sumatra/gambar/marcopolo.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20mos%20antar%20lintas%20sumatra/mod/6.%20MARCOPOLO.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20mos%20antar%20lintas%20sumatra/livery/6.%20Marcopolo%28update%29%20ALS%20By%20Jeffry%20Bussid.png"
+    },
+    {     
+      "title":"Truck Canter Muatan Sapi Full Anim",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/gambar/photo_2022-05-11_12-30-59.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/mod/21CANTER%20ANGKUT%20SAPI%20%C2%ABRMC%20CREATION%C2%BB.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Putra Manunggal",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-31.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/NKR%20BOX%20PUTRA%20MANUNGGAL%20%5BRMC%20CREATION%5D.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/Putra%20Manunggal%20By%20LfDesign.png"
+    },
+    {
+      "title":"Truck Box Indomie",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-25.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/Canter%20Box%20Balap%20indomie.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/Livery%20Box%20Balap%20indomie.png"
+    },
+    {
+      "title":"Truck Canter Purel",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-27.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/3.%20truck%20canter%20purel.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/3.%20livery%20truck%20canter%20purel.png"
+    },
+    {  
+      "title":"Truck Sapi",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/gambar/photo_2022-05-11_12-31-01.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/mod/TRUK%20SAPI%20by%20AD%20ISKN.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/livery/livery%20TRUK.png"
+    },
+    {
+      "title":"Truck Angkut Sapi",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/gambar/photo_2022-05-11_12-31-02.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/mod/Canter%20Muatan%20Sapi%20by%20Ghoni%20RK.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Zed One",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-40.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/TK_ZED_ONE_BC_V1_.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Tiger%20Bc%20Template.png"
+    },
+    {
+      "title":"KONDODY_HITECH_ROBIN",
+      "image":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/gambar/photo_2022-05-10_07-20-12.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/KONDODY_HITECH_ROBIN.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/robin.png"
+    },
+    {
+      "title":"Tiger Bodycode V1",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-38.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/tigerbodycode.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Sagara%20Skin.png"
+    },
+    {
+      "title":"ARROW Coach Vega",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-36.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/arrow%20coach%20vega.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/chothi.png"
+    },
+    {
+      "title":"My Maruthi",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-50-37.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/mod/my_maruthi.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Putra Manunggal",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-31.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/NKR%20BOX%20PUTRA%20MANUNGGAL%20%5BRMC%20CREATION%5D.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/Putra%20Manunggal%20By%20LfDesign.png"
+    },
+    {
+      "title":"Truck Box Indomie",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-25.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/Canter%20Box%20Balap%20indomie.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/Livery%20Box%20Balap%20indomie.png"
+    },
+    {
+      "title":"Truck Canter Purel",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-27.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/3.%20truck%20canter%20purel.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/3.%20livery%20truck%20canter%20purel.png"
+    },
+	{
+      "title":"Zed One",
+      "image":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/gambar/zed%20one.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/TK_ZED_ONE_BC_V1_.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Tiger%20Bc%20Template.png"
+    },
+    {
+      "title":"KONDODY_HITECH_ROBIN",
+      "image":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/gambar/photo_2022-05-10_07-20-12.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/KONDODY_HITECH_ROBIN.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/robin.png"
+    },
+    {
+      "title":"Tiger Bodycode V1",
+      "image":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/gambar/photo_2022-05-10_07-20-05.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/tigerbodycode.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Sagara%20Skin.png"
+    },
+    {
+      "title":"ARROW Coach Vega",
+      "image":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/gambar/photo_2022-05-10_07-20-08.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/arrow%20coach%20vega.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/chothi.png"
+    },
+	{
+      "title":"Bus Karina Double Decker",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Akap%20Bussid%20Mabar%20/gambar/busa%20karina.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Akap%20Bussid%20Mabar%20/mod/Bus%20Karina.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Akap%20Bussid%20Mabar%20/livery/1.%20JB2%2BSDD%20LIVERY%20KARINA%20BY%20MAMANG%20BUSSID%20CHANNEL.png"
+    },
+    {
+      "title":"Bus Medali Mas SR2",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Akap%20Bussid%20Mabar%20/gambar/medali%20mas.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Akap%20Bussid%20Mabar%20/mod/Bus%20Karina.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Akap%20Bussid%20Mabar%20/livery/6.%20SR2%20XDD%20Scania%20K410iB%20Medali%20Mas%20By%20Jeffry%20Bussid.png"
+    },
+    {
+      "title":"Bus Rosalia Indah Double Decker",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Akap%20Bussid%20Mabar%20/gambar/rosalina%20indah.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Akap%20Bussid%20Mabar%20/mod/Bus%20Rosalia%20Indah.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Akap%20Bussid%20Mabar%20/livery/Bus%20Rosalia%20Indah.png"
+    },
+	{
+      "title":"Zed One",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-40.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/TK_ZED_ONE_BC_V1_.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Tiger%20Bc%20Template.png"
+    },
+    {
+      "title":"KONDODY_HITECH_ROBIN",
+      "image":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/gambar/photo_2022-05-10_07-20-12.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/KONDODY_HITECH_ROBIN.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/robin.png"
+    },
+    {
+      "title":"Tiger Bodycode V1",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-38.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/tigerbodycode.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Sagara%20Skin.png"
+    },
+    {
+      "title":"ARROW Coach Vega",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-36.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/arrow%20coach%20vega.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/chothi.png"
+    },
+    {
+      "title":"My Maruthi",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-50-37.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/mod/my_maruthi.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Putra Manunggal",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-31.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/NKR%20BOX%20PUTRA%20MANUNGGAL%20%5BRMC%20CREATION%5D.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/Putra%20Manunggal%20By%20LfDesign.png"
+    },
+    {
+      "title":"Truck Box Indomie",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-25.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/Canter%20Box%20Balap%20indomie.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/Livery%20Box%20Balap%20indomie.png"
+    },
+    {
+      "title":"Truck Canter Purel",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-27.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/3.%20truck%20canter%20purel.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/3.%20livery%20truck%20canter%20purel.png"
+    },
+	{
+      "title":"Jwt Bus Restu",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Umplung%20/gambar/photo_2022-05-09_03-17-20.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Umplung%20/mod/Jetbus%20HD%20AK8%20Restu.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Umpkung sawit",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Umplung%20/gambar/photo_2022-05-09_03-17-31.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Umplung%20/mod/2.umplung%20sawit.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Umplung",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Umplung%20/gambar/photo_2022-05-09_03-17-27.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Umplung%20/mod/Umplung.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Umplung Kayu",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Umplung%20/gambar/photo_2022-05-09_03-17-23.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20Umplung%20/mod/umplungkayu.bussidvehicle",
+      "link_livery":""
+    },
+	{
+      "title":"Putra Manunggal",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-31.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/NKR%20BOX%20PUTRA%20MANUNGGAL%20%5BRMC%20CREATION%5D.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/Putra%20Manunggal%20By%20LfDesign.png"
+    },
+    {
+      "title":"Truck Box Indomie",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-25.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/Canter%20Box%20Balap%20indomie.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/Livery%20Box%20Balap%20indomie.png"
+    },
+    {
+      "title":"Truck Canter Purel",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-27.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/3.%20truck%20canter%20purel.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/3.%20livery%20truck%20canter%20purel.png"
+    },
+	{
+      "title":"Truck Canter Sekar Taro",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Full%20Lampu%20Kolong/gambar/photo_2022-05-09_17-51-30.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Full%20Lampu%20Kolong/mod/RestuSoulehArt.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Full%20Lampu%20Kolong/livery/LiverySekartarobyadityagaming.png"
+    },
+    {
+      "title":"JB2-SHD lampu kolong",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Full%20Lampu%20Kolong/gambar/photo_2022-05-09_17-51-34.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Full%20Lampu%20Kolong/mod/JB2%2B%20HD%20UPDATE%20FRXZTOM.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Bus Telolet",
+      "image":"file:///android_asset/bus3.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck UD Quester Bak Muat Kayu",
+      "image":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.bussidmod",
+      "link_livery":"https://aliendro.id/uploads/busid/Truck UD Quester Bak Muat Kayu.png"
+    } ,
+    {
+      "title":"Jaguar XE SV Project 8",
+      "image":"https://aliendro.id/uploads/busid/Jaguar XE SV Project 8.jpeg",
+      "link_mods":"https://aliendro.id/uploads/busid/Bagasi.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Truck Canter Muatan Sapi Full Anim",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/gambar/photo_2022-05-11_12-30-59.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/mod/21CANTER%20ANGKUT%20SAPI%20%C2%ABRMC%20CREATION%C2%BB.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Sapi",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/gambar/photo_2022-05-11_12-31-01.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/mod/TRUK%20SAPI%20by%20AD%20ISKN.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/livery/livery%20TRUK.png"
+    },
+    {
+      "title":"Truck Angkut Sapi",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/gambar/photo_2022-05-11_12-31-02.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/mod/Canter%20Muatan%20Sapi%20by%20Ghoni%20RK.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Zed One",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-40.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/TK_ZED_ONE_BC_V1_.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Tiger%20Bc%20Template.png"
+    },
+    {
+      "title":"KONDODY_HITECH_ROBIN",
+      "image":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/gambar/photo_2022-05-10_07-20-12.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/KONDODY_HITECH_ROBIN.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/robin.png"
+    },
+    {
+      "title":"Tiger Bodycode V1",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-38.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/tigerbodycode.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Sagara%20Skin.png"
+    },
+    {
+      "title":"ARROW Coach Vega",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-36.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/arrow%20coach%20vega.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/chothi.png"
+    },
+    {
+      "title":"My Maruthi",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-50-37.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/mod/my_maruthi.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Putra Manunggal",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-31.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/NKR%20BOX%20PUTRA%20MANUNGGAL%20%5BRMC%20CREATION%5D.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/Putra%20Manunggal%20By%20LfDesign.png"
+    },
+    {
+      "title":"Truck Box Indomie",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-25.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/Canter%20Box%20Balap%20indomie.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/Livery%20Box%20Balap%20indomie.png"
+    },
+    {
+      "title":"Truck Canter Purel",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-27.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/3.%20truck%20canter%20purel.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/3.%20livery%20truck%20canter%20purel.png"
+    },
+	{
+      "title":"Truck Carter Standart Minimalis",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Herex%20Racing%20/gambar/ruck%20Canter%20Standard%20Minimalis.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Herex%20Racing%20/mod/Truck%20Canter%20Standard%20Minimalis.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Herex%20Racing%20/livery/STANDARD%20MINIMALIS.png"
+    },
+    {
+      "title":"Truck Canter Dump",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Herex%20Racing%20/gambar/Truck%20Canter%20Dump.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Herex%20Racing%20/mod/3.%20ISUZU%20NKR%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Herex%20Racing%20/livery/3.%20isuzu%20terpal%20segitiga.png"
+    },
+    {
+      "title":"Truck Bos Cilik",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Herex%20Racing%20/gambar/Truk%20Bos%20Cilik.jpeg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Herex%20Racing%20/mod/BOS%20CILIK.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Herex%20Racing%20/livery/Boss%20Cilik%20By%20Raikal%20Official%20%26%20Adi-picsay.png"
+    },
+    {
+      "title":"Hino Bumper",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Hino%20500%20Muatan%20/gambar/1.-Hino-500-Modifikasi-Bumper.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Hino%20500%20Muatan%20/mod/Truck%20Hino%20500%20Bumper%20Modif%20by%20HSD%20Codit%20Aldovadewa.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Hino%20500%20Muatan%20/livery/Truck%20Hino%20500%20Bumper%20Modif%20by%20HSD%20Codit%20Aldovadewa.png"
+    } ,
+    {
+      "title":"Hino Muatan Pipa",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Hino%20500%20Muatan%20/gambar/2.-Hino-500-Muatan-Pipa.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Hino%20500%20Muatan%20/mod/Truck%20Hino%20500%20Angkut%20Pipa.bussidvehicle",
+      "link_livery":""
+    },
+	{
+      "title":"Hino 500 Modifikasi Bumper",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Hino%20500%20Muatan%20/gambar/1.-Hino-500-Modifikasi-Bumper.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Hino%20500%20Muatan%20/mod/Truck%20Hino%20500%20Bumper%20Modif%20by%20HSD%20Codit%20Aldovadewa.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Hino%20500%20Muatan%20/livery/Truck%20Hino%20500%20Bumper%20Modif%20by%20HSD%20Codit%20Aldovadewa.png"
+    },
+    {
+      "title":"Livery Zentrum JB2 SHD",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Hino%20500%20Muatan%20/gambar/2.-Hino-500-Muatan-Pipa.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Truck%20Hino%20500%20Muatan%20/mod/Truck%20Hino%20500%20Angkut%20Pipa.bussidvehicle",
+      "link_livery":""
+    },
+	{
+      "title":"Konvoi Truck Canter",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Truk%20Konvoi/gambar/photo_2022-05-09_03-59-40.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Truk%20Konvoi/mod/Konvoi%20Truk%20Canter%28BMI%29.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Mitsubishi Canter No Terpal",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Truk%20Konvoi/gambar/photo_2022-05-09_03-59-36.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Truk%20Konvoi/mod/Mitsubishi%20Canter%20No%20terpal%2C%20Rangka%20Segitiga.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Canter Wahyu Abadi",
+      "image":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/gambar/maxresdefault%20%284%29.jpg",
+      "link_mods":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/mod/3.%20WAHYU%20ABADI.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/livery/3.%20Livery%20wahyu%20abadI%20fam8os%20by%20RGDESIGN..png"
+    },
+	{
+      "title":"Mod Truk Trending Topik",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Truk%20Trending%20Topik/gambar/Photo_210417102804.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Truk%20Trending%20Topik/mod/mod%20trending%20topic%20budesign.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Truk%20Trending%20Topik/livery/LIVERY%20TRENDING%20TOPIC%20BY%20TONY%2005%20ID.png"
+    },
+    {
+      "title":"Dump Truck Kalimantan",
+      "image":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/gambar/mod%20bussid%20canter%20dump%20kalimantan%20style.jpg",
+      "link_mods":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/mod/5.%20CANTER%20KALIMANTAN%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/livery/5.%20LIVERY%20KOTOR%20CANTER%20KALIMANTAN.png"
+    },
+	  
+	  
+    {
+      "title":"Mod Bus Euroliner ALS",
+      "image":"http://fakecallprank.my.id/Bussid%20mos%20antar%20lintas%20sumatra/gambar/Euroliner-ALS.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20mos%20antar%20lintas%20sumatra/mod/1.%20Euroliner%20var5%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20mos%20antar%20lintas%20sumatra/livery/euroliner.png"
+    },
+    {
+      "title":"Mod Bus ALS (Antar Lintas Sumatera) Marcopol",
+      "image":"http://fakecallprank.my.id/Bussid%20mos%20antar%20lintas%20sumatra/gambar/marcopolo.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20mos%20antar%20lintas%20sumatra/mod/6.%20MARCOPOLO.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20mos%20antar%20lintas%20sumatra/livery/6.%20Marcopolo%28update%29%20ALS%20By%20Jeffry%20Bussid.png"
+    },
+    {
+      "title":"Bus ALS Full Terpal",
+      "image":"http://fakecallprank.my.id/Bussid%20mos%20antar%20lintas%20sumatra/gambar/mod-bussid-Bus-ALS-full-terpal.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20mos%20antar%20lintas%20sumatra/mod/2.%20JB3_NGALIR_SUMATRAAN%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20mos%20antar%20lintas%20sumatra/livery/2.%20Livery%20ALS%20Kotor%20JB3%20SHD%20ztomxTotti%20By.%20Warung%20Game.png"
+    },
+	{
+      "title":" Mod Bussid Truck Canter Bemper M18",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/gambar/MOD-Truck-Canter-Bumper-M18-1024x498.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/mod/Canter%20M18%20Terpal%20Segitiga.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/livery/Livery%20CANTER%20M18%20fam9os%20by%20RGDESIGN.png"
+    },
+    {
+      "title":"Mod Bussid Truck Canter Bemper M18 custom",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/gambar/MOD-Truck-Canter-Bumper-M18-1024x498.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/mod/Canter%20M18%20Terpal%20Custom.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/livery/Livery%20CANTER%20M18%20fam9os%20by%20RGDESIGN.png"
+    },
+    {
+      "title":"FUSO dump Truck",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/gambar/Fuso%20Dump%20Truck%20Full%20Anim%20Super%20HD.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/mod/1.%20FUSO%20DUMP%20TRUCK%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/livery/1.%20IMG_20210113_190852-picsay.png"
+    },
+    {
+      "title":"Truck Hino DUTRO Dump",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/gambar/Hino%20Dutro%20Dump%20Truck%20Muatan%20Batu.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/mod/1.%20HINO%20DUTRO%20DUMP%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/livery/truck%20hino%20Batu.png"
+    } ,
+    {
+      "title":"Truck Hino FULL Terpal",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/gambar/Truck%20Hino%20Full%20Terpal%20Ukuran%20Panjang.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/mod/Hino%20500NG%20Terpal%20Oren%20Hello%20Mans%20-%20Javastech.com.bussidvehicle",
+      "link_livery":""
+    },
+	{
+      "title":"Truck Hino Muat Sawit",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/gambar/maxresdefault%20%283%29.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/mod/3.%20HINO%20500%20GAYOR.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/livery/3.%20LIVERY%20HINO%20SAWIT.png"
+    },
+    {
+      "title":"Truck Canter Antobolo Muatan Sawit",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/gambar/Screenshot_2021-08-15-16-20-21-58_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/mod/Truck%20Canter%20Antobolo%20Muatan%20Sawit.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/livery/Truck%20Canter%20Antobolo%20Muatan%20Sawit.png"
+    },
+    {
+      "title":"Truck Dump Muatan Sawit ",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/gambar/Screenshot_2021-01-16-11-21-35-20_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/mod/8.%20DUMP%20MUATAN%20SAWIT%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Hino Putih",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/gambar/mod-hino-500-muatan-sawit-gayor-2.jpeg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/mod/HINO%20500%20GAYOR%20putih.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/livery/TEMPELATE%20HINO%20putih-picsay.png"
+    }
+  ,
+    {
+      "title":"Truck Hino 500 Box Yakult",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/gambar/Screenshot_2021-01-13-12-21-57-22_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/mod/4.%20HINO%20500%20BOX%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/livery/4.%20template%20hinos-picsay.png"
+    } ,
+    {
+      "title":"Truck Hino Dump Beban Berat",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/gambar/Screenshot_2021-01-16-11-20-57-95_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/mod/7.%20HINO%20500%20DUMP%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Truck%20Sawit/livery/7.%20hinoc9%20abc.png"
+    },
+	{
+      "title":"Fish Lorry",
+      "image":"http://fakecallprank.my.id/Mod%20Bus%20India%202/gambar/maxresdefault%20%2841%29.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bus%20India%202/mod/FISH%20LORRY.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Bus%20India%202/livery/FISH_LORRY_LIVERY.png"
+    },
+    {
+      "title":"Zed One",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-40.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/TK_ZED_ONE_BC_V1_.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Tiger%20Bc%20Template.png"
+    },
+    {
+      "title":"KONDODY_HITECH_ROBIN",
+      "image":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/gambar/photo_2022-05-10_07-20-12.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/KONDODY_HITECH_ROBIN.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/robin.png"
+    },
+    {
+      "title":"Tiger Bodycode V1",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-38.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/tigerbodycode.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Sagara%20Skin.png"
+    },
+    {
+      "title":"ARROW Coach Vega",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-36.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/arrow%20coach%20vega.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/chothi.png"
+    },
+    {
+      "title":"My Maruthi",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-50-37.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/mod/my_maruthi.bussidvehicle",
+      "link_livery":""
+    },
+	{
+      "title":"Angkot Carry Ambulance",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Angkot/gambar/photo_2022-06-06_20-41-14.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Angkot/mod/CARRY%20ambulance%20BY%20DSP.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Bussid%20Angkot/livery/CARRY%20ambulance%20livery.png"
+    },
+    {
+      "title":"Angkot Carry Doodle Art",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Angkot/gambar/photo_2022-06-06_20-41-12.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Angkot/mod/Carry%20Doodle%20Art.bussidvehicle",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Bussid%20Angkot/livery/Carry%20Doodle%20Art.png"
+    },
+    {
+      "title":"Angkot Carry Nano Nano",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Angkot/gambar/photo_2022-06-06_20-41-20.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Angkot/mod/Angkot%20Nano%20Nano.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Bussid%20Angkot/livery/Carry%20Nano%20Nano.png"
+    },
+    {
+      "title":"Angkot Carry Racing Oren",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Angkot/gambar/photo_2022-06-06_20-41-18.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Angkot/mod/Angkot%20Racing%20orange.bussidvehicle",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Bussid%20Angkot/livery/ANGKOT%20Orange.png"
+    } ,
+    {
+      "title":"Angkot Sempati Star",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Angkot/gambar/simpati.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Angkot/mod/MOD%20ISUZU%20ELF%20V2%20BY%20AZUMODS.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Bussid%20Angkot/livery/Livery%20Elf%20sempati%20star%20By.%20Warung%20Game.png"
+    },
+	{
+      "title":"Heavy Tractor Trolley",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Heavy%20Tractor%20Trolley%20/gambar%20/photo_2022-06-12_13-32-48.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Heavy%20Tractor%20Trolley%20/mod/Mahindra%20Arjun%20Novo%20Plus%20Mod.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Forklift",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Heavy%20Tractor%20Trolley%20/gambar%20/photo_2022-06-12_13-32-53.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Heavy%20Tractor%20Trolley%20/mod/Road_Roller_by_GamerChunkZ.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Beko JCB",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Heavy%20Tractor%20Trolley%20/gambar%20/photo_2022-06-12_13-32-50.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Heavy%20Tractor%20Trolley%20/mod/JCB_V1.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Dump Truck Catepilar",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Heavy%20Tractor%20Trolley%20/gambar%20/photo_2022-06-12_13-32-51.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Heavy%20Tractor%20Trolley%20/mod/caterpilar789C_wsc.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Pahala Kencana JB2+",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Pahala%20Kencana%20/gambar/jb2.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Pahala%20Kencana%20/mod/1.%20JB2%2B%20HINO%20RK%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Bussid%20Pahala%20Kencana%20/livery/1.%20Pahala%20Kencana%20MOD.png"
+    },
+    {
+      "title":"Pahala Kencana JB3+",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Pahala%20Kencana%20/gambar/Screenshot_2021-01-28-20-14-47-85_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Pahala%20Kencana%20/mod/JB3%2B%20MERCY%20O500R%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Bussid%20Pahala%20Kencana%20/livery/MERCY%20SHD%20o500rs%20PK.png"
+    },
+    {
+      "title":"Pahala Kencana New Patriot",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Pahala%20Kencana%20/gambar/Screenshot_2021-03-15-17-52-09-36_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Pahala%20Kencana%20/mod/2.%20NEW%20PATRIOT%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Bussid%20Pahala%20Kencana%20/livery/2.%20NEW%20PATRIOT%20PAHALA%20NANONANO%20by%20jeffry%20bussid.png"
+    },
+    {
+      "title":"Truck Canter Muatan Sapi Full Anim",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/gambar/photo_2022-05-11_12-30-59.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/mod/21CANTER%20ANGKUT%20SAPI%20%C2%ABRMC%20CREATION%C2%BB.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Sapi",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/gambar/photo_2022-05-11_12-31-01.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/mod/TRUK%20SAPI%20by%20AD%20ISKN.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/livery/livery%20TRUK.png"
+    },
+    {
+      "title":"Truck Angkut Sapi",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/gambar/photo_2022-05-11_12-31-02.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/mod/Canter%20Muatan%20Sapi%20by%20Ghoni%20RK.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Zed One",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-40.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/TK_ZED_ONE_BC_V1_.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Tiger%20Bc%20Template.png"
+    },
+    {
+      "title":"KONDODY_HITECH_ROBIN",
+      "image":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/gambar/photo_2022-05-10_07-20-12.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/KONDODY_HITECH_ROBIN.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/robin.png"
+    },
+    {
+      "title":"Tiger Bodycode V1",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-38.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/tigerbodycode.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Sagara%20Skin.png"
+    },
+    {
+      "title":"ARROW Coach Vega",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-36.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/arrow%20coach%20vega.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/chothi.png"
+    },
+    {
+      "title":"My Maruthi",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-50-37.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/mod/my_maruthi.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Putra Manunggal",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-31.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/NKR%20BOX%20PUTRA%20MANUNGGAL%20%5BRMC%20CREATION%5D.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/Putra%20Manunggal%20By%20LfDesign.png"
+    },
+    {
+      "title":"Truck Box Indomie",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-25.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/Canter%20Box%20Balap%20indomie.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/Livery%20Box%20Balap%20indomie.png"
+    },
+    {
+      "title":"Truck Canter Purel",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/gambar/photo_2022-05-08_07-33-27.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/mod/3.%20truck%20canter%20purel.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Bussid%20Truk%20Elf%20Box%20/livery/3.%20livery%20truck%20canter%20purel.png"
+    },
+	{
+    "title":"Truck Canter Sang Perintis",
+      "image":"http://fakecallprank.my.id/mod%20bussid%20perintis/gambar/Canter-Sang-Perintis.webp",
+      "link_mods":"http://fakecallprank.my.id/mod%20bussid%20perintis/mod/Canter%20Sang%20Perintis%20by%20Budesign%20TM.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/mod%20bussid%20perintis/livery/Livery%20Sang%20Perintis%20Segitiga%20by%20X%20Play%20Kembar.png"
+    },
+    {
+      "title":" Mod Bussid Truck Canter Bemper M18",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/gambar/MOD-Truck-Canter-Bumper-M18-1024x498.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/mod/Canter%20M18%20Terpal%20Segitiga.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/livery/Livery%20CANTER%20M18%20fam9os%20by%20RGDESIGN.png"
+    },
+    {
+      "title":"Mod Bussid Truck Canter Bemper M18 custom",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/gambar/MOD-Truck-Canter-Bumper-M18-1024x498.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/mod/Canter%20M18%20Terpal%20Custom.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/livery/Livery%20CANTER%20M18%20fam9os%20by%20RGDESIGN.png"
+    },
+    {
+      "title":"FUSO dump Truck",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/gambar/Fuso%20Dump%20Truck%20Full%20Anim%20Super%20HD.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/mod/1.%20FUSO%20DUMP%20TRUCK%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/livery/1.%20IMG_20210113_190852-picsay.png"
+    },
+    {
+      "title":"Truck Hino DUTRO Dump",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/gambar/Hino%20Dutro%20Dump%20Truck%20Muatan%20Batu.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/mod/1.%20HINO%20DUTRO%20DUMP%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/livery/truck%20hino%20Batu.png"
+    } ,
+    {
+      "title":"Truck Hino FULL Terpal",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/gambar/Truck%20Hino%20Full%20Terpal%20Ukuran%20Panjang.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/mod/Hino%20500NG%20Terpal%20Oren%20Hello%20Mans%20-%20Javastech.com.bussidvehicle",
+      "link_livery":""
+    },
+	{
+      "title":"Mobil L300 Angkut Sound system",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Pick%20Up%20Angkut%20Sound%20System%20/gambar/mod-bussid-mobil-l300-muatan-soundsystem.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Pick%20Up%20Angkut%20Sound%20System%20/mod/MOD-BUSSID-Mobil_Bak-Pink_.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Mobil L300 Angkut Bedug+Orang",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Pick%20Up%20Angkut%20Sound%20System%20/gambar/mod-bussid-mobil-l300-angkut-bedug.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Pick%20Up%20Angkut%20Sound%20System%20/mod/MOD%20PICKUP%20MUATAN%20BEDUK%20BY%20AZUMODS_BASSAMAZUPER.bussidvehicle",
+      "link_livery":""
+    },
+    {
+      "title":"Mobil L300 Muatan Semen",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Pick%20Up%20Angkut%20Sound%20System%20/gambar/mod-bussid-mobil-l300-muatan-semen.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Pick%20Up%20Angkut%20Sound%20System%20/mod/Update.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Mobil L300 Tribal",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Pick%20Up%20Angkut%20Sound%20System%20/gambar/mod-bussid-mobil-l300-tribal.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Pick%20Up%20Angkut%20Sound%20System%20/mod/L300%20tribal.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"Mobil L300 Angkut Drum",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Pick%20Up%20Angkut%20Sound%20System%20/gambar/mod-bussid-mobil-l300-angkut-drum.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Pick%20Up%20Angkut%20Sound%20System%20/mod/L300Drumm%20--.bussidvehicle",
+      "link_livery":""
+    },
+	{
+      "title":"Truck Fuso Bagong Super Panjang",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Truck%20Fuso%20Terpal/gambar/Truck%20Fuso%20Bagong%20Super%20Panjang.webp",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Truck%20Fuso%20Terpal/mod/MB_Bagong_LongTriball_cvt_Totti.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Fuso Bak Terpal",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Truck%20Fuso%20Terpal/gambar/Truck%20Fuso%20Bak%20Terpal.webp",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Truck%20Fuso%20Terpal/mod/Fuso%20Bak%20Terpal%202.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Bussid%20Truck%20Fuso%20Terpal/livery/fuso%20bak%20terpal.png"
+    },
+    {
+      "title":"Truck Fuso TG Ragil Topi No Terpal",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Truck%20Fuso%20Terpal/gambar/Truck%20Fuso%20TG%20Ragil%20Topi%20No%20Terpal.webp",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Truck%20Fuso%20Terpal/mod/MOD-BUSSID-Fuso-TG-Ragil-Selfloader_modbussidterbaru.com.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"FUSO muatan semen",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Truck%20Fuso%20Terpal/gambar/Truck%20Fuso%20L%20Muatan%20Semen.webp",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Truck%20Fuso%20Terpal/mod/Truck%20Fuso%20Tribal%20Muatan%20Semen.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Fuso Tribal V1",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Truck%20Fuso%20Terpal/gambar/Truck%20Fuso%20Tribal%20V1d.webp",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Truck%20Fuso%20Terpal/mod/Truck%20Fuso%20Tribal%20V1.bussidmod",
+      "link_livery":""
+    } ,
+    {
+      "title":"FUSO dump Truck",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/gambar/Fuso%20Dump%20Truck%20Full%20Anim%20Super%20HD.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/mod/1.%20FUSO%20DUMP%20TRUCK%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/livery/1.%20IMG_20210113_190852-picsay.png"
+    },
+    {
+      "title":"Truck Hino DUTRO Dump",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/gambar/Hino%20Dutro%20Dump%20Truck%20Muatan%20Batu.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/mod/1.%20HINO%20DUTRO%20DUMP%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/livery/truck%20hino%20Batu.png"
+    } ,
+    {
+      "title":"Truck Hino FULL Terpal",
+      "image":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/gambar/Truck%20Hino%20Full%20Terpal%20Ukuran%20Panjang.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Truck%20Canter%20Bemper%20M18%20/mod/Hino%20500NG%20Terpal%20Oren%20Hello%20Mans%20-%20Javastech.com.bussidvehicle",
+      "link_livery":""
+    },
+	{
+      "title":"Truck Lady Rose",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Truck%20Lady%20Rose/gambar/maxresdefault%20%2826%29.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Truck%20Lady%20Rose/mod/Canter%20Box%20Lady%20Rose%20by%20AD%20ISKN.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Canter Oleng Sweet Angel",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-48.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/4.%20CANTER%20SWEET%20ANGEL%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"truck Oleng Canter ayam velg racing",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-56.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/7.%20CANTER%20AYAM%20RACING%20SHARE%20BY%20JODS%20TV%20%281%29.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/livery/racing%20ayam.png"
+    },
+    {
+      "title":"Truck Canter Oleng Tronton",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-53.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/canter%20tronton.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/livery/canter%20tronton.png"
+    },
+	{
+      "title":"Bussid Truk Rebecca Pindang",
+      "image":"http://fakecallprank.my.id/Mod%20Bussid%20Truk%20Rebecca%20Pindang%20/gambar/maxresdefault%20%2828%29.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bussid%20Truk%20Rebecca%20Pindang%20/mod/Canter%20Rebecca%20Pindang%20Terpal%20Kotak%C2%A0%20by%20RMC%20Creation.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Bussid%20Truk%20Rebecca%20Pindang%20/livery/Rebecca%20Pindang%20by%20LfDesign.png"
+    },
+    {
+      "title":"Canter Oleng Sweet Angel",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-48.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/4.%20CANTER%20SWEET%20ANGEL%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"truck Oleng Canter ayam velg racing",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-56.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/7.%20CANTER%20AYAM%20RACING%20SHARE%20BY%20JODS%20TV%20%281%29.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/livery/racing%20ayam.png"
+    },
+    {
+      "title":"Truck Canter Oleng Tronton",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-53.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/canter%20tronton.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/livery/canter%20tronton.png"
+    },
+	{
+      "title":"Kerala India",
+      "image":"http://fakecallprank.my.id/Mod%20Kerala%20Mod%20Bussid%20Indian%202/gambar/maxresdefault%20%2839%29.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Kerala%20Mod%20Bussid%20Indian%202/mod/DVN%20KARUR.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Kerala%20Mod%20Bussid%20Indian%202/livery/AVITTAM_HOLIDAYS_LIVERY.png"
+    },
+    {
+      "title":"Zed One",
+      "image":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/gambar/zed%20one.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/TK_ZED_ONE_BC_V1_.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Tiger%20Bc%20Template.png"
+    },
+    {
+      "title":"KONDODY_HITECH_ROBIN",
+      "image":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/gambar/photo_2022-05-10_07-20-12.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/KONDODY_HITECH_ROBIN.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/robin.png"
+    },
+    {
+      "title":"Tiger Bodycode V1",
+      "image":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/gambar/photo_2022-05-10_07-20-05.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/tigerbodycode.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Sagara%20Skin.png"
+    },
+    {
+      "title":"ARROW Coach Vega",
+      "image":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/gambar/photo_2022-05-10_07-20-08.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/arrow%20coach%20vega.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/chothi.png"
+    },
+	{
+      "title":"MOD Bus Transjakarta Gandeng",
+      "image":"http://fakecallprank.my.id/Mod%20Kumpulan%20Mod%20Bus%20Jakarta%20/gambar/Photo_210629010440.jpeg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Kumpulan%20Mod%20Bus%20Jakarta%20/mod/Bus%20Transjakarta%20Gandeng%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"MOD BUSSID Bus Transjakarta",
+      "image":"http://fakecallprank.my.id/Mod%20Kumpulan%20Mod%20Bus%20Jakarta%20/gambar/MOD-BUSSID-Bus-Transjakarta.webp",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Kumpulan%20Mod%20Bus%20Jakarta%20/mod/Transjakarta%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Canter Oleng Sweet Angel",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-48.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/4.%20CANTER%20SWEET%20ANGEL%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"truck Oleng Canter ayam velg racing",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-56.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/7.%20CANTER%20AYAM%20RACING%20SHARE%20BY%20JODS%20TV%20%281%29.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/livery/racing%20ayam.png"
+    },
+    {
+      "title":"Truck Canter Oleng Tronton",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-53.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/canter%20tronton.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/livery/canter%20tronton.png"
+    },
+	{
+      "title":"Takbiran Bussid 2022 ",
+      "image":"http://fakecallprank.my.id/Mod%20Takbiran%20Bussid%202022/gambar/Daihatsu-GranMax-Spesial-Takbiran.webp",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Takbiran%20Bussid%202022/mod/Daihatsu%20GranMax%20Spesial%20Takbiran%20by%20MAH%20Channel.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Canter Muatan Sapi Full Anim",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/gambar/photo_2022-05-11_12-30-59.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/mod/21CANTER%20ANGKUT%20SAPI%20%C2%ABRMC%20CREATION%C2%BB.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Truck Sapi",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/gambar/photo_2022-05-11_12-31-01.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/mod/TRUK%20SAPI%20by%20AD%20ISKN.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/livery/livery%20TRUK.png"
+    },
+    {
+      "title":"Truck Angkut Sapi",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/gambar/photo_2022-05-11_12-31-02.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Muat%20Hewan/mod/Canter%20Muatan%20Sapi%20by%20Ghoni%20RK.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Truck Dump Meitos",
+      "image":"http://fakecallprank.my.id/Mod%20Truck%20Dump%20Meitos/gambar/Photo_210330073500.jpeg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Truck%20Dump%20Meitos/mod/22DUMP%20MEITOS%20%C2%ABRMC%20TEAM%C2%BB.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Truck%20Dump%20Meitos/livery/MEITOS%20BY%20LfDesign.png"
+    },
+    {
+      "title":"Truck Canter NKR V6",
+      "image":"http://fakecallprank.my.id/Mod%20Truck%20Dump%20Meitos/gambar/3.-Screenshot_2022-05-25-14-26-23-53_5d347d05ff406c08e59fd63f6905b8af.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Truck%20Dump%20Meitos/mod/3.%20MOD%20BUSSID%20Truck%20Canter%20NKR%20Po%20V6%20by%20Muhklas%20Po.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Truck%20Dump%20Meitos/livery/3.%20Livery%20NKR%20V6%20Muat%20Tebu%20by%20Muhklas%20Po.png"
+    },
+    {
+      "title":"Mod Truk Trending Topik",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Truk%20Trending%20Topik/gambar/Photo_210417102804.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Truk%20Trending%20Topik/mod/mod%20trending%20topic%20budesign.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Truk%20Trending%20Topik/livery/LIVERY%20TRENDING%20TOPIC%20BY%20TONY%2005%20ID.png"
+    },
+    {
+      "title":"Dump Truck Kalimantan",
+      "image":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/gambar/mod%20bussid%20canter%20dump%20kalimantan%20style.jpg",
+      "link_mods":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/mod/5.%20CANTER%20KALIMANTAN%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/livery/5.%20LIVERY%20KOTOR%20CANTER%20KALIMANTAN.png"
+    },
+	{
+      "title":"KONDODY_HITECH_ROBIN",
+      "image":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/gambar/photo_2022-05-10_07-20-12.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/KONDODY_HITECH_ROBIN.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/robin.png"
+    },
+    {
+      "title":"Fish Lorry",
+      "image":"http://fakecallprank.my.id/Mod%20Bus%20India%202/gambar/maxresdefault%20%2841%29.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Bus%20India%202/mod/FISH%20LORRY.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Bus%20India%202/livery/FISH_LORRY_LIVERY.png"
+    },
+    {
+      "title":"Zed One",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-40.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/TK_ZED_ONE_BC_V1_.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Tiger%20Bc%20Template.png"
+    },
+    {
+      "title":"Tiger Bodycode V1",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-38.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/tigerbodycode.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/Sagara%20Skin.png"
+    },
+    {
+      "title":"ARROW Coach Vega",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-11-36.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/mod/arrow%20coach%20vega.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Kerala%20Mod%20Bussid%20Indian/livery/chothi.png"
+    },
+    {
+      "title":"My Maruthi",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/gambar/photo_2022-05-11_08-50-37.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Bus%20India/mod/my_maruthi.bussidvehicle",
+      "link_livery":""
+    },
+	{
+      "title":"Truck Isuzu NMR71",
+      "image":"http://fakecallprank.my.id/Mod%20Truck%20NMR%20Custom%20Mbois%20/gambar/Screenshot_20211226-173802_YouTube.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Truck%20NMR%20Custom%20Mbois%20/mod/NMR%20AYAM%20CUSTOM%20BUDESIGN.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Truck%20NMR%20Custom%20Mbois%20/livery/livery.png"
+    },
+    {
+      "title":"Varian Terpal Gayor",
+      "image":"http://fakecallprank.my.id/Mod%20Truck%20NMR%20Custom%20Mbois%20/gambar/photo_2022-06-08_20-53-59.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Truck%20NMR%20Custom%20Mbois%20/mod/Low%20%26%20Slow%20Gayor.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Varian Terpal Kotak",
+      "image":"http://fakecallprank.my.id/Mod%20Truck%20NMR%20Custom%20Mbois%20/gambar/photo_2022-06-08_20-53-58.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Truck%20NMR%20Custom%20Mbois%20/mod/Low%20%26%20Slow%20Kotak.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"Varian Terpal Segitiga",
+      "image":"http://fakecallprank.my.id/Mod%20Truck%20NMR%20Custom%20Mbois%20/gambar/photo_2022-06-08_20-53-56.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Truck%20NMR%20Custom%20Mbois%20/mod/Low%20%26%20Slow%20T.%20Segitiga.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Truck%20NMR%20Custom%20Mbois%20/livery/Liveryy%20low%20slow%20fam8os%20by%20RG%20DESIGN.png"
+    } ,
+    {
+      "title":"NMR 05",
+      "image":"http://fakecallprank.my.id/Mod%20Truck%20NMR%20Custom%20Mbois%20/gambar/Screenshot_1-20220222.png",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Truck%20NMR%20Custom%20Mbois%20/mod/NMR%20CUSTOM%2005%20BUDESIGN.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Truck%20NMR%20Custom%20Mbois%20/livery/TEMPLATE%20NMR%20CUSTOM%2005.png"
+    },
+	{
+      "title":"Mod Bayi Tabung",
+      "image":"http://fakecallprank.my.id/Mod%20Truk%20Oleng%20Mbois%20Bussid%202/gambar/Screenshot_20210715-100115_YouTube.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Truk%20Oleng%20Mbois%20Bussid%202/mod/bayi_tabung.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Truk%20Oleng%20Mbois%20Bussid%202/livery/LIVERLY%20TERPAL%20SGITIGA.png"
+    },
+    {
+      "title":"Suspensi Empuk",
+      "image":"http://fakecallprank.my.id/Mod%20Truk%20Suspensi%20Empuk/gambar/sddefault.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Truk%20Suspensi%20Empuk/mod/CANTER%20NEW%20CUSTOME%2001.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Truk%20Suspensi%20Empuk/livery/livery.png"
+    },
+    {
+      "title":"Canter Oleng Sweet Angel",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-48.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/4.%20CANTER%20SWEET%20ANGEL%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"truck Oleng Canter ayam velg racing",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-56.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/7.%20CANTER%20AYAM%20RACING%20SHARE%20BY%20JODS%20TV%20%281%29.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/livery/racing%20ayam.png"
+    },
+    {
+      "title":"Truck Canter Oleng Tronton",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-53.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/canter%20tronton.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/livery/canter%20tronton.png"
+    },
+	{
+      "title":"Suspensi Empuk",
+      "image":"http://fakecallprank.my.id/Mod%20Truk%20Suspensi%20Empuk/gambar/sddefault.jpg",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Truk%20Suspensi%20Empuk/mod/CANTER%20NEW%20CUSTOME%2001.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Truk%20Suspensi%20Empuk/livery/livery.png"
+    },
+    {
+      "title":"Canter Oleng Sweet Angel",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-48.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/4.%20CANTER%20SWEET%20ANGEL%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"truck Oleng Canter ayam velg racing",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-56.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/7.%20CANTER%20AYAM%20RACING%20SHARE%20BY%20JODS%20TV%20%281%29.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/livery/racing%20ayam.png"
+    },
+    {
+      "title":"Truck Canter Oleng Tronton",
+      "image":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/gambar/photo_2022-05-08_14-15-53.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/mod/canter%20tronton.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20%20Mod%20Truk%20Oleng%20Mbois%20Bussid%20/livery/canter%20tronton.png"
+    },
+	{
+      "title":"Giga Trending Topik",
+      "image":"http://fakecallprank.my.id/Mod%20Truk%20Trending%20Topik%202/gambar/MOD-Truck-Giga-Trending-Topik-2-Auto-Fest.webp",
+      "link_mods":"http://fakecallprank.my.id/Mod%20Truk%20Trending%20Topik%202/mod/GIGA%20TRENDING%20TOPIK.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Mod%20Truk%20Trending%20Topik%202/livery/TRPL%20KOTAK%20TEXTUR%20KONTES.png"
+    },
+    {
+      "title":"Mod Truk Trending Topik",
+      "image":"http://fakecallprank.my.id/Bussid%20Mod%20Truk%20Trending%20Topik/gambar/Photo_210417102804.jpg",
+      "link_mods":"http://fakecallprank.my.id/Bussid%20Mod%20Truk%20Trending%20Topik/mod/mod%20trending%20topic%20budesign.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/Bussid%20Mod%20Truk%20Trending%20Topik/livery/LIVERY%20TRENDING%20TOPIC%20BY%20TONY%2005%20ID.png"
+    },
+    {
+      "title":"Dump Truck Kalimantan",
+      "image":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/gambar/mod%20bussid%20canter%20dump%20kalimantan%20style.jpg",
+      "link_mods":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/mod/5.%20CANTER%20KALIMANTAN%20SHARE%20BY%20JODS%20TV.bussidmod",
+      "link_livery":"http://fakecallprank.my.id/%20Bussid%20Mod%20Wahyu%20Abadi%20Full%20Strobo/livery/5.%20LIVERY%20KOTOR%20CANTER%20KALIMANTAN.png"
+    },
+    {
+      "title":"JB3+ MHD Voyager",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-JB3-MHD-Voyager.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/MOD-BUSSID-JB3-MHD-Voyager-Dop-Keira.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Bus Voyager Daksina Trans",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bus-Voyager-Daksina-Trans.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Mod-Bus-Voyager-Daksina-Trans.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Mod-Bus-Voyager-Daksina-Trans.png"
+    },
+	{
+      "title":"SHD Jetbus 3+ STJ Biru",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bussid-SHD-Jetbus-3-STJ-Biru.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/SHD-Jetbus-3-STJ-Biru.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Bus SHD JB3+ RK8 ATJ by MD Creation",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bus-SHD-JB3-RK8-ATJ-by-MD-Creation.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/SHD-JB3-RK8-ATJ-by-MD-Creation.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"JB3+ MN RSM Putra Luragung Montel",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/JB3-MN-RSM-Putra-Luragung-Montel.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-MN-RSM-Putra-Luragung-Montel.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JB3-MN-RSM-Putra-Luragung-Montel.png"
+    },
+	{
+      "title":"Bus JB3 Sein Ngalir",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Bus-JB3-Sein-Ngalir-1.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-JB3-Sein-Ngalir-1.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Bus JB3 O500 RS Facelift",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Bus-JB3-Sein-Ngalir.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-JB3-Sein-Ngalir.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Bus Jetbus 3+ Facelift Mercy O500RS",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bus-JB3-O500-RS-Facelift.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-JB3-O500-RS-Facelift.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"UHD JB3+ Full Aksesoris",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bus-Jetbus-3-Facelift-Mercy-O500RS.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+	{
+      "title":"Madu Kismo JB3+ SHD Voyager Terbaru Full Anim",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Bussid-UHD-JB3-Full-Aksesoris.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/UHD-JB3-Full-Aksesoris.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/UHD-JB3-Full-Aksesoris.png"
+    },
+	{
+      "title":"Jetbus 3+ Setra Angga Saputro Full Anim",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mad-Kismo-JB3-SHD-Voyager-Terbaru-Full-Anim.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Mad-Kismo-JB3-SHD-Voyager-Terbaru-Full-Anim.bussidmod",
+      "link_livery":""
+    },
+	{
+      "title":"Budiman JB3 Full Strobo & Anim",
+	  "image":"https://gameitu.com/wp-content/uploads/2022/03/Mod-Jetbus-3-Setra-Angga-Saputro-Full-Anim.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Jetbus-3-Setra-Angga-Saputro-Full-Anim.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Jetbus-3-Setra-Angga-Saputro-Full-Anim.png"
+    },
+	  
+    {
+      "title":"JB3+ UHD Angga Saputro Voyager",
+	     "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-UHD-Angga-Saputro-Voyager.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-UHD-Angga-Saputro-Voyager.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+	   {
+      "title":"JB3+ UHD Angga Saputro Facelift Full Acc",
+	     "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-UHD-Angga-Saputro-Facelift-Full-Acc.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-UHD-Angga-Saputro-Facelift-Full-Acc.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+    {
+      "title":"JB3+ UHD Angga Saputro Facelift",
+	     "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-UHD-Angga-Saputro-Facelift.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-UHD-Angga-Saputro-Facelift.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/.png"
+    },
+	   {
+      "title":"JB3+ HDD Non Facelift Angga Saputro Full Acc",
+	      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-HDD-Non-Facelift-Angga-Saputro-Full-Acc.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-HDD-Non-Facelift-Angga-Saputro-Full-Acc.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JB3-HDD-Non-Facelift-Angga-Saputro-Full-Acc.png"
+    },
+   {
+      "title":"SR2 XHD Prime Scania K410iB",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-SR2-XHD-Prime-Scania-K410iB.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Scania-K410iB.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Scania-K410IB.png"
+    },
+    {
+      "title":"Bus SR2 Panorama",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/12/MOD-BUSSID-Bus-SR2-Panorama.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/BUS-SR2-Panorama.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/BUS-SR2-Panorama.png"
+    },
+    {
+      "title":"Bus Jetliner SHD Hino RK8",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-Bus-Jetliner-SHD-Hino-RK8.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-Jetliner-SHD-Hino-RK8.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/BUS-Jetliner-JT-WSP.png"
+    },
+    {
+      "title":"SR2 XHD Prime Scania K410iB",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/11/MOD-BUSSID-SR2-XHD-Prime-Scania-K410iB-Varian-Sumatra.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Livery-NPM-SR2-Tronton-UMP.png",
+      "link_livery":"https://wadahpintar.com/bussid/XHD-Prime-Scania%20K410iB-Varian-Sumatra.bussidmod"
+    },
+    {
+      "title":"JB3+ SHD Volvo B11R",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-JB3-SHD-Volvo-B11R.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Volvo-B11R.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JB3-Volvo-as-X-FM.png"
+    },
+    {
+      "title":"Bus Scania Touring",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/10/MOD-BUSSID-Bus-Scania-Touring.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-Scania-Touring.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"BUSSID Bus Transjakarta Gandeng",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/07/MOD-BUSSID-Bus-Transjakarta-Gandeng.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-Transjakarta-Gandeng.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Bus Marcopolo Paradiso 1800DD",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/06/Marcopolo-Paradiso-1800DD.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Marcopolo-Paradiso-1800DD.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Vidrio-Marcopolo-Paradiso.png"
+    },
+   {
+      "title":"Bus SR2 XHD Scania K410iB",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/03/MOD-BUSSID-Bus-SR2-XHD-Scania-K410iB.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/SR2-XHD-Scania-K410iB-V1-Standar.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Putra-Pelangi.png"
+    },
+   {
+      "title":"Bus Bumel Sumber Kencono",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Bus-Bumel-Sumber-Kencono.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bumel-Sumber-Kencono.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Jetbus 2 Travego",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-Jetbus-2-Travego.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Jetbus-2-Travego-Dop-Ring-V1.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3 Dream Coach",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/02/MOD-BUSSID-JB3-Dream-Coach.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-Dream-Coach.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/JB3-Dream-Coach.png"
+    },
+   {
+      "title":"Jet X Bus",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-Jet-X-Bus.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Jet-X-Bus.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3+ O500RS Angga Saputro",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2021/01/MOD-BUSSID-JB3-O500RS-Angga-Saputro.jpeg",
+      "link_mods":"",
+      "link_livery":""
+    },
+   {
+      "title":"Bus Transjakarta",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-Bus-Transjakarta.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-Transjakarta.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3+ SHD Mercy O500RS Angga Saputro Voyager",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-JB3-SHD-Mercy-O500RS-Angga-Saputro-Voyager.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Mercy-O500RS-Angga-Saputro.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3+ SHD Mercy O500RS Angga Saputro Voyager",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-JB3-SHD-Mercy-O500RS-Angga-Saputro-Voyager.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3+_SHD-Mercy-O500RS-Angga-Saputro-Voyager.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3+ SHD Mercy O500RS Angga Saputro Facelift",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-JB3-SHD-Mercy-O500RS-Angga-Saputro-Facelift.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Mercy-O500RS-Angga-Saputro-Facelift.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Avante D2 SDD",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/MOD-BUSSID-Avante-D2-SDD.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Avante-D2-SDD.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Avante-D2-SDD.png"
+    },
+   {
+      "title":"Bus New Armada Evonext Gen 2",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Bus-New-Armada-Evonext-Gen-2.jpeg",
+      "link_mods":"https://wadahpintar.com/bussid/Bus-New-Armada-Evonext-Gen-2.bussidmod",
+      "link_livery":""
+    },
+    {
+      "title":"JB3+ SHD Setra Angga Saputro Hino RK8",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-SHD-Setra-Angga-Saputro-Hino-RK8.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Setra-Angga-Saputro-Hino-RK8.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"B3+ SHD Voyager Angga Saputro Hino RK8",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-SHD-Voyager-Angga-Saputro-Hino-RK8.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-SHD-Voyager-Angga-Saputro-Hino-RK8.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Elf NLR 55 BLX Bumper Avante",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Elf-NLR-55-BLX-Bumper-Avante.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Elf-NLR-55-BLX-Bumper-Avante.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Elf-NLR-55-BLX-Bumper-Avante.png"
+    },
+   {
+      "title":"JB3 Oleng Di Tempat",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/JB3-Oleng-Di-Tempat.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-Oleng-Di-Tempat.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"Setra JB2+ HD – Varian 3",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Setra-JB2-HD-Varian-3.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Setra-JB2-HD-Varian-3.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Setra-JB2-HD-Varian-3.png"
+    },
+   {
+      "title":"Setra JB2+ HD – Varian 2",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/12/Setra-JB2-HD-Varian-2.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/Setra-JB2-HD-Varian-2.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/Setra-JB2-HD-Varian-2.png"
+    },
+   {
+      "title":"ELF NLR 55 BLX Bumper Jetbus 3",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/ELF-NLR-55-BLX-Bamper-Jetbus-3.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/ELF-NLR-55-BLX-Bamper-Jetbus-3.bussidmod",
+      "link_livery":"https://wadahpintar.com/bussid/ELF-NLR-55-BLX-Bamper-Jetbus-3.png"
+    },
+   {
+      "title":"JB3+ Full Kejutan",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-Full-Kejutan.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-Full-Kejutan.bussidmod",
+      "link_livery":""
+    },
+   {
+      "title":"JB3+ UHD Angga Saputro Voyager Full Acc",
+      "image":"https://i0.wp.com/modbussid.co.id/wp-content/uploads/2020/11/JB3-UHD-Angga-Saputro-Voyager-Full-Acc.jpg",
+      "link_mods":"https://wadahpintar.com/bussid/JB3-UHD-Angga-Saputro-Voyager-Full-Acc.bussidmod",
+      "link_livery":""
+    }
+  ]
+}
